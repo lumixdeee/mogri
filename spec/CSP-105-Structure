@@ -1,8 +1,8 @@
-# CSP-105 Asset Structure with Mogri
+# Mogri Asset Structure
 
 ## 1. Overview
 
-**CSP-105** is a curated framework of semantic primitives, lists, and conceptual assets designed for cognitive modeling, prompt structuring, and AI-human interaction experiments.  
+**Mogri** is a curated semantic primitive, lists, and conceptual assets designed for cognitive modeling, prompt structuring, and AI-human interaction experiments.  
 - **Developer:** Julian Pursell  
 - **Purpose:** Personal exploration, shareable for collaborative use  
 - **Key Feature:** Incremental, versioned lists for play, testing, and formalization  
