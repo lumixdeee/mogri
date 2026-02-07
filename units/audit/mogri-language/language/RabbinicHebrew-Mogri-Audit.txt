@@ -1,0 +1,53 @@
+RabbinicHebrew-Mogri-Audit.txt
+=============================
+
+Language: Rabbinic Hebrew
+ISO code: he (historical register)
+Native speakers consulted: legal / scholarly tradition
+Date: 2026-01
+
+Register scope:
+- legal
+- philosophical
+- scholarly
+
+CORE QUESTION
+-------------
+Does Rabbinic Hebrew lexicalise persistence-through-change neutrally?
+
+CANDIDATE TERMS
+---------------
+- הוויה (havayah)
+- שינוי (shinui)
+- נעשה (na'aseh)
+
+WHY THEY FAIL
+-------------
+- havayah is abstract and technical
+- shinui implies alteration
+- na'aseh implies becoming-done
+- all are embedded in legal-metaphysical systems
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- legal reasoning chains
+- case-based abstraction
+- layered commentary
+
+COST OF WORKAROUND
+------------------
+High (discursive expansion)
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Rabbinic Hebrew systematises change through law and discourse,
+not via a neutral carrier.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

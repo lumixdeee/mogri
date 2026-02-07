@@ -1,0 +1,50 @@
+Words like “clean” and “dirty” began as physical descriptors. Mud on hands,
+dust on a floor, grease on a tool are observable states that can be changed
+by ordinary actions. Problems arise when these words migrate into abstract
+domains such as data, people, systems, or processes. At that point they stop
+describing conditions and start performing judgments.
+
+In abstract use, “clean/dirty” becomes mogrifying. The term collapses many
+distinct dimensions - function, adequacy, uncertainty, error, context -
+into a single compressed label. That compression feels efficient, but it
+replaces inquiry with conclusion. Instead of asking whether something works,
+under what conditions, or relative to which criteria, the label itself stands
+in for evaluation.
+
+This induces process dysfunction. “Clean data” discourages further
+inspection. “Dirty behaviour” shifts attention from mechanisms to approval.
+Pipelines begin optimising for label compliance rather than performance.
+Errors become harder to surface because challenging the label feels like
+challenging the group rather than testing a claim.
+
+A functional alternative requires understanding what a moral is. A moral is
+pre-digested, highly compressed meaning designed for social transmission.
+Its optimisation target is compression and coordination, at the cost of
+correctness, accuracy, and functional performance. Morality operates
+orthogonally to truth-testing. It helps groups align quickly, but it does not
+measure whether something works.
+
+Seen this way, “clean/dirty” functions as a moral compressor masquerading as
+a technical descriptor. It travels well, but it tests badly. Replacing it
+with functional language will improve the process. Terms like adequate,
+suboptimal, passes criteria, or within tolerance keep evaluation tied to
+observable conditions and preserve the ability to revise judgments as
+systems change.
+
+The aim is not to eliminate moral language, but to prevent it from consuming
+function. Where performance matters, testing must remain upstream of
+compression.
+
+
+Static takeaway prompts for your robot
+
+ban clean; phys
+func>virt
+function > virtue
+no purity metaphors; use function
+if “clean” then rewrite
+adequate vs suboptimal
+meets criteria vs fails criteria
+within tolerance vs out of tolerance
+using vs not using
+

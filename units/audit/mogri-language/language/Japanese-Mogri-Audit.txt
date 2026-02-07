@@ -1,0 +1,49 @@
+Japanese-Mogri-Audit.txt
+=======================
+
+Language: Japanese
+ISO code: ja
+Native speakers consulted: pragmatic usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+
+CORE QUESTION
+-------------
+Does Japanese lexicalise persistence-through-change?
+
+CANDIDATE TERMS
+---------------
+- なる (naru)
+- 変わる (kawaru)
+
+WHY THEY FAIL
+-------------
+- naru implies becoming-into
+- kawaru implies a change event
+- heavy reliance on context over lexical carriers
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- aspectual auxiliaries
+- omission
+- situational inference
+
+COST OF WORKAROUND
+------------------
+Low to medium (context absorbs load)
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Japanese deliberately avoids pinning processes lexically.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

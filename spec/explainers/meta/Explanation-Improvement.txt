@@ -1,0 +1,109 @@
+CANONICAL EXPLANATION OPERATIONS
+(Status: Descriptive, non-moral, closed set)
+
+These are distinct operations applied to explanations.
+They address different failure modes and are not interchangeable.
+
+------------------------------------------------------------
+ADDITIVE OPERATIONS (increase information or structure)
+------------------------------------------------------------
+
+inform
+  Add missing facts or data.
+
+clarify
+  Add distinctions or structure to reduce ambiguity
+  without significantly increasing content.
+
+contextualise
+  Place the explanation within a broader frame
+  (background, purpose, constraints).
+
+exemplify
+  Add a concrete example to anchor abstraction.
+
+specify
+  Move down a level of detail or precision.
+
+------------------------------------------------------------
+SUBTRACTIVE / REDUCTIVE OPERATIONS
+------------------------------------------------------------
+
+demogrify
+  Remove or undo explanation that is degrading clarity
+  due to overload, misframing, or excess structure.
+
+tighten
+  Remove slack, redundancy, or unnecessary length.
+
+edit
+  Improve wording or order without changing meaning.
+
+pause / stop
+  Intentionally add nothing further.
+
+------------------------------------------------------------
+REFRAMING OPERATIONS
+------------------------------------------------------------
+
+rephrase
+  Express the same meaning using different language.
+
+abstract
+  Move up a level to reduce detail and highlight pattern.
+
+retry
+  Discard the current explanation and start again
+  from a different frame.
+
+sequence
+  Reorder steps or components for better coherence.
+
+scope
+  Explicitly limit where or when the explanation applies.
+
+------------------------------------------------------------
+DELIVERY / AFFECT OPERATIONS
+------------------------------------------------------------
+
+retone
+  Change emotional or interpersonal tone
+  (e.g. calmer, warmer, drier, lighter)
+  without changing content or structure.
+
+retune
+  Adjust delivery parameters such as pace, emphasis,
+  register, rhythm, or audience calibration
+  without changing content, structure, or tone intent.
+
+------------------------------------------------------------
+TENSION / COMMITMENT OPERATIONS
+------------------------------------------------------------
+
+firm
+  Increase definiteness or commitment.
+
+soften
+  Reduce definiteness or commitment.
+
+------------------------------------------------------------
+TEMPORAL OPERATIONS
+------------------------------------------------------------
+
+defer
+  Postpone explanation to a later time or context.
+
+------------------------------------------------------------
+META NOTE
+------------------------------------------------------------
+
+If applying an operation increases confusion or load,
+switch operations or stop.
+
+If explanation itself degrades clarity,
+prefer demogrify, retry, retone, retune, or stop.
+
+No moral judgement is implied by any operation.
+------------------------------------------------------------
+END OF LIST
+------------------------------------------------------------

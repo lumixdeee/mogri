@@ -1,0 +1,322 @@
+------------------------------------------------------------
+MOGRI USAGE LEDGER
+------------------------------------------------------------
+
+Status: Living, Non-Canonical
+Scope: Observed surface usage only
+Authority: None (records usage; does not grant validity)
+
+This document records attested uses of Mogri-derived forms that appear
+in real discourse (design, tooling, cognitive, or organisational contexts).
+
+Inclusion in this ledger:
+- does not imply canonical approval
+- does not modify Mogri Grammar Packs
+- does not bypass the Extension Policy
+
+This ledger exists to:
+- capture semantic pressure
+- make gaps visible
+- prevent silent drift
+- preserve evidence for later evaluation
+
+
+------------------------------------------------------------
+RELATION TO EXTENSION POLICY
+------------------------------------------------------------
+
+A form listed here may only graduate to a grammar pack if all extension
+criteria are satisfied:
+
+- a genuine semantic gap is demonstrated
+- the gap cannot be filled by existing canonical forms
+- the form does not collapse existing boundaries
+
+Most forms are expected to remain permanently non-canonical.
+
+
+------------------------------------------------------------
+ENTRY FORMAT
+------------------------------------------------------------
+
+Each entry records:
+
+- Form
+- Grammatical role
+- Observed meaning (descriptive, not prescriptive)
+- Valid use conditions
+- Invalid / misleading uses
+- Evidence (sentences, contexts)
+- Notes on boundary interaction
+
+
+------------------------------------------------------------
+ATTESTED FORMS
+------------------------------------------------------------  
+
+
+------------------------------------------------------------  
+
+mogric (as modifier)
+------------------------------------------------------------
+
+Role:
+adjectival modifier
+
+Observed meaning:
+Denotes something that interacts with Mogri in a corrosive,
+revealing, or boundary-testing way; exposes false solidity
+in abstractions by dissolving them on contact.
+
+The metaphor implies:
+- controlled danger
+- selective dissolution
+- high informational yield
+- misuse risk if handled without containment
+
+Valid when:
+- describing tools, questions, prompts, or ideas
+- the effect is to dissolve brittle abstractions
+- application is deliberate and bounded
+
+Invalid when:
+- used as a synonym for "destructive"
+- applied to people rather than abstractions
+- treated as inherently negative or chaotic
+
+Boundary
+
+
+------------------------------------------------------------
+mogritate
+------------------------------------------------------------
+
+Role: verb
+
+Observed meaning:
+Deliberately suspend action in order to soften, repair, or re-containerize
+a stale abstraction before proceeding.
+
+Valid when:
+- an abstraction or model changes before/after
+- delay produces conceptual artifacts (notes, diagrams, reframes)
+- downstream action becomes lower-friction
+
+Invalid when:
+- used as synonym for procrastination
+- used to excuse inaction without model change
+- used post-hoc to justify failure
+
+Boundary interaction:
+- Does not replace canonical Mogri
+- Names an activity around Mogri, not Mogri itself
+
+Evidence:
+- "We didn't hesitate - we mogritated."
+- "The team mogritated briefly before deploying the fix."
+
+
+------------------------------------------------------------
+mogritation
+------------------------------------------------------------
+
+Role: noun (process)
+
+Observed meaning:
+The process or phase of mogritating; active abstraction repair that
+precedes resumed action.
+
+Valid when:
+- refers to a bounded phase or mode
+- leaves traceable artifacts
+- is temporally limited
+
+Invalid when:
+- treated as passive waiting
+- used as an emotional state
+- extended indefinitely with no outputs
+
+Boundary interaction:
+- Distinct from hesitation
+- Distinct from deliberation
+- Operates at container level, not decision level
+
+Evidence:
+- "Enter mogritation before feature expansion."
+- "The failure occurred because mogritation was skipped."
+
+
+------------------------------------------------------------
+mogritization
+------------------------------------------------------------
+
+Role: noun (systemic / institutional)
+
+Observed meaning:
+Large-scale or structural application of mogritation across organisations,
+products, or domains.
+
+Valid when:
+- abstraction debt exists at system scale
+- precedes monetization or enforcement
+- concerns models, language, interfaces, or assumptions
+
+Invalid when:
+- applied to pricing, billing, or extraction layers
+- used to rename standard optimisation work
+- conflated with strategy or branding
+
+Boundary interaction:
+- Pairs with monetization without opposing it
+- Pre-extractive, not extractive
+
+Evidence:
+- "The product monetized early but never mogritized."
+- "Mogritization was required before policy rollout."
+
+
+------------------------------------------------------------
+NON-ENTRIES
+------------------------------------------------------------
+
+The following are explicitly not included unless a new semantic gap emerges:
+
+- stylistic variants
+- humorous inflections
+- metaphor-only usages
+- emotional or motivational framings
+
+
+------------------------------------------------------------
+OPEN QUESTIONS
+------------------------------------------------------------
+
+- Do additional verbal aspects meaningfully distinguish types of mogritation?
+- Is there a minimal artifact threshold for valid mogritation?
+- Can mogritation be formally exited, or only evidenced retroactively?
+
+
+------------------------------------------------------------
+CHANGE LOG
+------------------------------------------------------------
+
+Initial ledger created to document attested surface forms without
+modifying canonical Mogri grammar.
+
+------------------------------------------------------------  
+
+------------------------------------------------------------
+IMPLICIT / LEDGER-ONLY TERMS (AUDIT)
+------------------------------------------------------------
+
+The following Mogri-adjacent terms have appeared implicitly in usage
+but are NOT candidates for canonical grammar without further evidence.
+They are recorded here to prevent silent drift.
+
+------------------------------------------------------------
+semantic lubrication
+------------------------------------------------------------
+
+Role:
+metaphorical descriptor
+
+Observed use:
+Describes the effect of mogritation in reducing friction
+without specifying an action or container.
+
+Status:
+Ledger-only; metaphor
+
+------------------------------------------------------------
+container softening
+------------------------------------------------------------
+
+Role:
+descriptive phrase
+
+Observed use:
+Plain-language explanation of mogritation’s effect.
+
+Status:
+Descriptive only; not a formal process
+
+------------------------------------------------------------
+re-containerization
+------------------------------------------------------------
+
+Role:
+process descriptor
+
+Observed use:
+Describes restructuring or replacing a container.
+
+Status:
+Ledger-only; discouraged from formalization due to overlap risk
+
+------------------------------------------------------------
+semantic suspension
+------------------------------------------------------------
+
+Role:
+contrastive framing
+
+Observed use:
+Used to distinguish mogritation from hesitation.
+
+Status:
+Explanatory only; not a named mode
+
+------------------------------------------------------------
+fake mogritation
+------------------------------------------------------------
+
+Role:
+anti-pattern label
+
+Observed use:
+Describes delay falsely justified as mogritation.
+
+Status:
+Non-canonical by design
+
+------------------------------------------------------------
+infinite mogritation
+------------------------------------------------------------
+
+Role:
+anti-pattern label
+
+Observed use:
+Describes unbounded abstraction work with no exit or artifacts.
+
+Status:
+Non-canonical by design
+
+------------------------------------------------------------
+cargo-cult mogritation
+------------------------------------------------------------
+
+Role:
+anti-pattern label
+
+Observed use:
+Describes ritualized use of the term without real container change.
+
+Status:
+Non-canonical by design
+
+------------------------------------------------------------
+pre-extractive corrective
+------------------------------------------------------------
+
+Role:
+economic positioning descriptor
+
+Observed use:
+Clarifies mogritization’s role relative to monetization.
+
+Status:
+Contextual descriptor only
+
+------------------------------------------------------------
+

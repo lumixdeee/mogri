@@ -1,0 +1,51 @@
+Malay-Mogri-Audit.txt
+====================
+
+Language: Malay (Bahasa Melayu)
+ISO code: ms
+Native speakers consulted: everyday usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- administrative
+- literary
+
+CORE QUESTION
+-------------
+Does Malay lexicalise persistence-through-change as a neutral carrier?
+
+CANDIDATE TERMS
+---------------
+- menjadi
+- berubah
+- bertukar
+
+WHY THEY FAIL
+-------------
+- menjadi implies becoming-into
+- berubah implies a change event
+- bertukar implies exchange or switch
+- all imply state transition
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- aspectual markers
+- contextual framing
+- serial verb constructions
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Malay favours clarity and outcome over neutral persistence.
+
+STATUS
+------
+☑ Still missing mogri

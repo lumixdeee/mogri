@@ -1,0 +1,55 @@
+AncientGreek-Mogri-Audit.txt
+============================
+
+Language: Ancient Greek
+ISO code: grc
+Native speakers consulted: philosophical canon
+Date: 2026-01
+
+Register scope:
+- literary
+- philosophical
+- technical
+
+CORE QUESTION
+-------------
+Does Ancient Greek have a neutral lexical carrier for persistence-through-change?
+
+CANDIDATE TERMS
+---------------
+- γίγνεσθαι (gignesthai)
+- μεταβολή (metabolē)
+- κίνησις (kinēsis)
+- γένεσις (genesis)
+
+WHY THEY FAIL
+-------------
+- gignesthai implies coming-into-being
+- metabolē implies change between states
+- kinēsis implies motion as category
+- genesis implies origin or birth
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- aspectual verb usage
+- metaphysical categorisation (being vs becoming)
+- extended argumentation
+- paradox framing (Heraclitus / Parmenides tension)
+
+COST OF WORKAROUND
+------------------
+Very high (entire philosophical traditions built around it)
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Ancient Greek philosophy is largely structured around managing the
+absence of a neutral persistence-through-change carrier.
+The being/becoming split is a direct consequence.
+
+STATUS
+------
+☑ Still missing mogri

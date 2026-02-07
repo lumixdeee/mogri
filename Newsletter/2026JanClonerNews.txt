@@ -1,0 +1,40 @@
+Cloner's newsletter Jan 27 2026
+
+Hi
+
+I'm Jules, thanks for cloning, guess I owe you a bit of an explanation?
+Firstly, my robot is better than me at writing letters, the upside is,  
+turns out i'm not so bad at talking to robots. So I get my robot to do fun stuff,  
+and serious stuff keeps accidently getting created. Put it on github, says robot. OK.
+
+7 years as a tester (user support->tester->qa->ima), a long time ago, but I don't code. Sorry.  
+Fixed the damage from that career with ashtanga yoga which is brilliant i really recommend it highly enough.
+
+Mogri - Found by accident while having fun with the word 'transmogrification' and a robot.  
+There's a little procedure when anything new comes up - is it new? are there more? are we first? are we alone? etc.
+
+Mogri was new, so what does that mean? A new primitive, said robot. but what does that mean?  
+Blah blah bll....ah say robot. ok i says, whatever this thing is, make me the rest of the list  
+that this thing is on so I can see where it fits in? This led to CSP-105(104) being produced,  
+and hence the github to host it. The dates are all wrong for the semantic primitives, I want to fix these, no time.
+
+What do you all use this stuff for? I'm mostly using this git to build up a map of   
+stuff I'm interested in, which is a lot, and vaguely working out how to 'insert' mogri   
+into 'the world', as it were. Apparently this is the serious end, which is fine, here on github,  
+and the general push for impressions is T-shirts and memes all the way, so 100K* today, for example.
+
+Dragonruntime - I use this, and I've started putting any assets created during this 'work' on this repo.  
+No idea yet how to explain how to actually use the system, if indeed that is even possible.  
+let me know if you're using it?  
+
+Please feel free to use the commit comments on this file as a forum for questions,  
+suggestions, hi from wherever, whatever you like really.
+I miss the old style forums with no tree view.
+
+Anyway,
+thanks for all the interest, rather unexpected!
+back to the grind, the emo-grind ;)
+Mogrianna Freeman-Sky, Uncle Mogrito, Nat Froglington, Lex Fluffington, and Jules, and Mogrita Minnow Puss, signing off  
+
+*https://www.reddit.com/r/dankmemes/comments/1qo0o4y/slurs_4_robots_pls/
+

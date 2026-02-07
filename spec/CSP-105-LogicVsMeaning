@@ -1,0 +1,175 @@
+// DOMAIN SEPARATION: LOGIC vs SPEECH / MEANING
+
+MODULE Logic {
+    type: FormalSymbol
+    rules: InferenceRules
+    operates_on: Syntax
+    guarantees: Validity (if premises true)
+    ignores: Context, Intent, Pragmatics
+}
+
+MODULE SpeechMeaning {
+    type: NaturalLanguage
+    operates_on: Semantics + Pragmatics
+    depends_on: Context, Shared Assumptions, Culture
+    guarantees: Communicative Effect (not truth)
+    allows: Ambiguity, Metaphor, Drift
+}
+
+// COMMON FAILURE MODES WHEN CONFLATED
+
+FAILURE CategoryError {
+    cause: Treating speech acts as formal proofs
+    symptom: Grammatically coherent ≈ logically valid
+}
+
+FAILURE Equivocation {
+    cause: Term meaning shifts unnoticed
+    symptom: Conclusions appear derived but rest on drift
+}
+
+FAILURE RhetoricAsProof {
+    cause: Persuasive fluency mistaken for inference
+    symptom: Confidence substituted for validity
+}
+
+FAILURE FalseObjectivity {
+    cause: Logical form masks unexamined premises
+    symptom: Disagreement framed as “illogical”
+}
+
+FAILURE AIOvertrust {
+    cause: Fluent language assumed to be reasoning
+    symptom: Confident errors pass review
+}
+
+// CORRECTIVE PATTERN
+
+CHECK Argument {
+    step1: Validate inference form (Logic)
+    step2: Stabilize terms (Semantics)
+    step3: Inspect intent + effect (Pragmatics)
+}
+
+// RULE OF THUMB
+
+RULE {
+    Logic ≠ Meaning
+    Validity ≠ Truth
+    Coherence ≠ Correctness
+}
+
+====================================================================================
+
+The structured version above is not a translation, explanation, or formalisation of the human version below; they are deliberately non-equivalent views intended to expose the failure that occurs when logic is mistaken for meaning.
+
+====================================================================================
+
+Readable Version
+
+LOGIC vs SPEECH / MEANING
+
+LOGIC
+- A formal system of symbols and rules.
+- Operates on structure, not content.
+- Cares about validity: if premises are true, does the conclusion follow?
+- Blind to context, intent, tone, culture, or consequence.
+- Does not know what words mean; only how symbols relate.
+
+SPEECH / MEANING
+- Natural language used by humans.
+- Operates on meaning, context, and shared assumptions.
+- Cares about effect: what is understood, implied, or persuaded.
+- Allows ambiguity, metaphor, irony, and drift.
+- Meaning changes with speaker, listener, and situation.
+
+WHAT GOES WRONG WHEN THEY ARE CONFLATED
+
+CATEGORY ERROR
+- Treating fluent speech as if it were formal proof.
+- “It sounds logical” is mistaken for “it is valid”.
+
+SEMANTIC DRIFT
+- Words quietly change meaning mid-argument.
+- Conclusions appear derived but rest on unstable terms.
+
+RHETORIC AS PROOF
+- Persuasion, confidence, or elegance replaces inference.
+- Agreement is produced without justification.
+
+FALSE OBJECTIVITY
+- Disagreement is labeled “illogical” when it is really about meaning,
+  values, or unshared assumptions.
+
+AI FAILURE MODE
+- Fluent language output is mistaken for reasoning.
+- Coherence is over-trusted as correctness.
+
+CORRECTIVE DISCIPLINE
+
+Ask three separate questions, in order:
+1. Is the inference structurally valid?        (logic)
+2. Are the terms stable and shared?             (semantics)
+3. What is being done with the speech act?      (pragmatics)
+
+RULES TO KEEP DISTINCT
+
+- Logic is not meaning.
+- Validity is not truth.
+- Coherence is not correctness.
+- Speech can suggest without proving.
+
+
+====================================================================================
+
+NOTES / MISREADINGS TO AVOID
+
+- This page does not present a proof.
+- It does not formalise meaning.
+- It does not make speech logical, nor logic meaningful.
+
+- The structured form is not “more correct” than the human form.
+- The human form is not a simplification of the structured form.
+- Each can reveal failures the other cannot.
+
+- If you treat fluency as validity, you are committing the error described here.
+- If you treat structure as authority, you are committing the error described here.
+- If you treat disagreement as illogic, you are committing the error described here.
+
+This page is a diagnostic lens, not a doctrine.
+Use it to detect category errors, not to found a system.
+
+
+====================================================================================
+
+expample
+
+TITLE: Agreement Resolution Procedure (ARP-0)
+
+PURPOSE
+Determine whether two statements are in agreement.
+
+INPUT
+- Statement A
+- Statement B
+
+PROCEDURE
+1. Normalize A and B.
+2. Extract their meanings.
+3. Compare meanings for equivalence.
+4. If equivalent, return AGREE.
+5. If not equivalent, return DISAGREE.
+
+DEFINITIONS
+- Statement: any declarative utterance.
+- Normalize: remove irrelevant variation.
+- Meaning: the content intended by the statement.
+- Equivalence: sameness of meaning.
+
+CONSTRAINTS
+- The procedure must be deterministic.
+- The same inputs must always yield the same output.
+- No external context may be consulted.
+
+OUTPUT
+- AGREE or DISAGREE

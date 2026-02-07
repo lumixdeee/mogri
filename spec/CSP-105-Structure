@@ -1,0 +1,89 @@
+# CSP-105 Asset Structure with Mogri
+
+## 1. Overview
+
+**CSP-105** is a curated framework of semantic primitives, lists, and conceptual assets designed for cognitive modeling, prompt structuring, and AI-human interaction experiments.  
+- **Developer:** Julian Pursell  
+- **Purpose:** Personal exploration, shareable for collaborative use  
+- **Key Feature:** Incremental, versioned lists for play, testing, and formalization  
+
+---
+
+## 2. Mogri Concept
+
+**Definition:**  
+Mogri is a **hypothetical container for “thing”**, containable or not, rooted in **philosophy, religion, and everyday human cognition**.  
+
+**Semantic Context:**  
+- Historically a **specialist/philosophical prime**  
+- Now operational in **ordinary semantic prompts**  
+- Bridges abstract human concepts to computational models  
+
+**Computational Function:**  
+- Acts as a **prompt-level anchor / semantic container**  
+- Reduces AI **semantic drift** and stabilizes outputs  
+- Enables **predictable modeling of abstract human concepts**  
+
+**Key Notes:**  
+- Not a new word type; **new appearance in classical prime set**  
+- Helps **AI handle previously “undefinable” concepts**  
+
+---
+
+## 3. Examples & Use Cases
+
+### Example 1: Stability Across Long Prompts
+- **Without Mogri:** AI drifts in meaning after 5–10 interactions  
+- **With Mogri:** Core concept remains anchored; responses maintain coherence  
+
+### Example 2: Abstract Concept Modeling
+- **Task:** Discuss “justice” or “existence”  
+- **Without Mogri:** Responses fragment, lose focus  
+- **With Mogri:** AI interprets abstract inputs as contained, consistent concepts  
+
+### Example 3: Semantic Anchoring in CSP-105 Lists
+- **Task:** Organize CSP-105 semantic primitives into functional clusters  
+- **With Mogri:** Acts as a **container/placeholder**, simplifying referencing and cross-linking  
+
+---
+
+## 4. Technical Description
+
+- Mogri is a **primitive / meta-token / cognitive container**  
+- Introduces **constraint bundling** in prompts  
+- Reduces **friction for AI-human modeling**  
+- Repeatable effect: maintains **semantic integrity** across extended sessions  
+
+**Behavioral Notes:**  
+- Promotes **predictable AI behavior**  
+- Works as **conceptual scaffolding** for other CSP-105 assets  
+- Can be **nested or referenced** in complex prompt structures  
+
+---
+
+## 5. User Protection (Complexity Navigators, Cognitive Explorers, Adaptive Minds, Multimodal Thinkers, Pattern Voyagers)
+
+**Purpose:** Safeguards human users in complex or open-ended prompts  
+
+**Functions:**  
+- Prevents **semantic drift** that confuses or frustrates users  
+- Maintains **coherence in AI output**, reducing unexpected behavior  
+- Acts as a **safety anchor** in exploratory cognitive interactions  
+
+
+---
+
+## 6. Asset Management
+
+- **Versioning:** Every CSP-105 list and Mogri reference should be numbered  
+- **Indexing:** Clear cross-links between Mogri and other semantic primitives  
+- **Examples:** Include repeatable “before / after” interactions for clarity  
+- **Documentation:** Maintain concise descriptions of each asset’s function and constraints  
+
+---
+
+## 7. Incremental / Play Aspect
+
+- Numbered primitives, lists, and Mogri examples encourage **incremental exploration**  
+- Gamified approach: watch numbers go up, track new primitives, measure stability improvements  
+- Safe to share: structured assets ensure **others benefit without risk of breaking prompt dynamics**  

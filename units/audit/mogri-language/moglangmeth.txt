@@ -1,0 +1,76 @@
+methodology.txt
+===============
+
+Why “Lexicalisation Discouraged” Is a Positive Outcome
+-----------------------------------------------------
+
+This project audits whether world languages possess a native, ordinary
+lexical carrier equivalent to “mogri” — a neutral handle for
+persistence-through-change without endpoint, identity swap, teleology,
+or moral loading.
+
+In many cases, the correct and most accurate outcome is:
+“lexicalisation discouraged”.
+
+This is not a failure state.
+
+Why Discouraged Can Be Correct
+------------------------------
+
+Languages are not interchangeable storage systems for concepts.
+They are evolved ecological systems that distribute meaning across
+different mechanisms.
+
+In some languages, introducing a single lexical carrier would:
+
+- duplicate existing grammatical machinery
+- interfere with aspectual or derivational systems
+- collapse useful ambiguity
+- flatten poetic, narrative, or relational meaning
+- misrepresent how native speakers actually think and speak
+
+In such cases, *absence is a design feature*.
+
+Three Common Reasons for Discouragement
+---------------------------------------
+
+D1 — Context-first languages  
+Languages where meaning is primarily carried by context, particles,
+omission, or discourse structure. Explicit lexical pinning would
+over-specify what is intentionally fluid.
+
+D2 — Aspect or morphology already does the work  
+Languages with rich aspectual systems, verb derivation, or agglutination
+that already encode persistence-through-change implicitly. Adding a
+carrier would be redundant or disruptive.
+
+D3 — Expressive or cultural resistance  
+Languages whose traditions privilege narrative, poetic, theological,
+or relational framing. Abstract neutral carriers would reduce expressive
+power rather than increase clarity.
+
+What This Project Is Not Doing
+------------------------------
+
+- It is not claiming that languages are “deficient”.
+- It is not proposing that every language should adopt mogri.
+- It is not attempting linguistic reform or standardisation.
+
+The audit is descriptive, not prescriptive.
+
+Why This Matters
+----------------
+
+Recording “discouraged” outcomes prevents:
+- forced or artificial coinages
+- conceptual imperialism
+- misclassification of healthy linguistic systems as “lacking”
+
+It also strengthens the project’s main claim:
+the absence of a neutral lexical carrier is widespread, systematic,
+and handled differently across language families.
+
+Status
+------
+“Lexicalisation discouraged” is a stable, valid, and often optimal end
+state in this audit.

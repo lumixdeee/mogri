@@ -1,0 +1,48 @@
+Malagasy-Mogri-Audit.txt
+=======================
+
+Language: Malagasy
+ISO code: mg
+Native speakers consulted: everyday usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- oral
+
+CORE QUESTION
+-------------
+Does Malagasy lexicalise persistence-through-change neutrally?
+
+CANDIDATE TERMS
+---------------
+- lasa
+- miova
+
+WHY THEY FAIL
+-------------
+- lasa implies becoming or passing into
+- miova implies change
+- verbs imply direction or result
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- voice system
+- aspectual framing
+- discourse context
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Malagasy prioritises event framing over abstract continuity.
+
+STATUS
+------
+☑ Still missing mogri

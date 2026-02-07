@@ -1,0 +1,51 @@
+Vietnamese-Mogri-Audit.txt
+=========================
+
+Language: Vietnamese
+ISO code: vi
+Native speakers consulted: everyday usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+
+CORE QUESTION
+-------------
+Does Vietnamese provide a neutral carrier for persistence-through-change?
+
+CANDIDATE TERMS
+---------------
+- trở thành (trở thành)
+- biến đổi (biến đổi)
+- thay đổi (thay đổi)
+
+WHY THEY FAIL
+-------------
+- trở thành implies becoming-into
+- biến đổi implies transformation
+- thay đổi implies change event
+- meaning distributed across particles
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- serial verbs
+- temporal adverbs
+- discourse context
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Vietnamese handles continuity pragmatically rather than lexically.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

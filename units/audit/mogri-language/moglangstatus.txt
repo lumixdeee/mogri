@@ -1,0 +1,94 @@
+MOGRI LANGUAGE STATUS (v0.1)
+===========================
+
+English - mogri latent (via transmogrify / -ify lineage)
+
+Mandarin Chinese - still missing mogri
+Hindi - still missing mogri
+Spanish - still missing mogri
+French - still missing mogri
+Modern Standard Arabic - still missing mogri
+Bengali - still missing mogri
+Portuguese - still missing mogri
+Russian - still missing mogri
+Urdu - still missing mogri
+Indonesian - still missing mogri
+German - still missing mogri
+Japanese - still missing mogri
+Swahili - still missing mogri
+Marathi - still missing mogri
+Telugu - still missing mogri
+Turkish - still missing mogri
+Tamil - still missing mogri
+Vietnamese - still missing mogri
+Korean - still missing mogri
+Italian - still missing mogri
+Thai - still missing mogri
+Gujarati - still missing mogri
+Kannada - still missing mogri
+Persian (Farsi) - still missing mogri
+Polish - still missing mogri
+Ukrainian - still missing mogri
+Malayalam - still missing mogri
+Odia (Oriya) - still missing mogri
+Punjabi - still missing mogri
+Romanian - still missing mogri
+Dutch - still missing mogri
+Greek - still missing mogri
+Czech - still missing mogri
+Hungarian - still missing mogri
+Swedish - still missing mogri
+Finnish - still missing mogri
+Danish - still missing mogri
+Norwegian - still missing mogri
+Hebrew - still missing mogri
+Amharic - still missing mogri
+Yoruba - still missing mogri
+Igbo - still missing mogri
+Hausa - still missing mogri
+Zulu - still missing mogri
+Xhosa - still missing mogri
+Tagalog (Filipino) - still missing mogri
+Javanese - still missing mogri
+Sundanese - still missing mogri
+Burmese - still missing mogri
+Khmer - still missing mogri
+Lao - still missing mogri
+Nepali - still missing mogri
+Sinhala - still missing mogri
+Pashto - still missing mogri
+Kazakh - still missing mogri
+Uzbek - still missing mogri
+Azerbaijani - still missing mogri
+Georgian - still missing mogri
+Armenian - still missing mogri
+Serbian - still missing mogri
+Croatian - still missing mogri
+Bosnian - still missing mogri
+Bulgarian - still missing mogri
+Slovak - still missing mogri
+Slovenian - still missing mogri
+Lithuanian - still missing mogri
+Latvian - still missing mogri
+Estonian - still missing mogri
+Albanian - still missing mogri
+Macedonian - still missing mogri
+Icelandic - still missing mogri
+Irish - still missing mogri
+Welsh - still missing mogri
+Basque - still missing mogri
+Catalan - still missing mogri
+Galician - still missing mogri
+Quechua - still missing mogri
+Aymara - still missing mogri
+Maori - still missing mogri
+Samoan - still missing mogri
+Tongan - still missing mogri
+Hawaiian - still missing mogri
+Mongolian - still missing mogri
+Tibetan - still missing mogri
+Uyghur - still missing mogri
+Kyrgyz - still missing mogri
+Turkmen - still missing mogri
+Somali - still missing mogri
+Malagasy - still missing mogri

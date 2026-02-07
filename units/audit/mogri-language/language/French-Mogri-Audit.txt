@@ -1,0 +1,54 @@
+French-Mogri-Audit.txt
+======================
+
+Language: French
+ISO code: fr
+Native speakers consulted: philosophical tradition
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+- philosophical
+
+CORE QUESTION
+-------------
+Does French have a single neutral lexical carrier for persistence-through-change?
+
+CANDIDATE TERMS
+---------------
+- devenir
+- transformation
+- métamorphose
+- néantisation
+
+WHY THEY FAIL
+-------------
+- devenir implies direction
+- transformation implies operation
+- métamorphose implies identity swap
+- néantisation is technical and defensive
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- reflexive verbs (se…)
+- nominalisation (-isation)
+- elegant ambiguity
+- repeated philosophical re-derivation
+
+COST OF WORKAROUND
+------------------
+High (masked by stylistic elegance)
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+French philosophy repeatedly reconstructs mogri procedurally
+without naming it.
+
+STATUS
+------
+☑ Still missing mogri

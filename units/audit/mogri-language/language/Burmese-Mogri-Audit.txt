@@ -1,0 +1,49 @@
+Burmese-Mogri-Audit.txt
+======================
+
+Language: Burmese (Myanmar)
+ISO code: my
+Native speakers consulted: everyday usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+
+CORE QUESTION
+-------------
+Does Burmese provide a neutral lexical carrier for persistence-through-change?
+
+CANDIDATE TERMS
+---------------
+- ဖြစ် (phyit)
+- ပြောင်း (pyaung)
+
+WHY THEY FAIL
+-------------
+- phyit implies being or becoming
+- pyaung implies change or shift
+- heavy reliance on particles and aspect
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- aspectual particles
+- serial verbs
+- contextual framing
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Burmese distributes continuity across particles, not lexical primitives.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

@@ -1,0 +1,56 @@
+Sanskrit-Mogri-Audit.txt
+=======================
+
+Language: Sanskrit
+ISO code: sa
+Native speakers consulted: grammatical / philosophical tradition
+Date: 2026-01
+
+Register scope:
+- literary
+- philosophical
+- technical (śāstra)
+
+CORE QUESTION
+-------------
+Does Sanskrit provide a neutral lexical carrier for persistence-through-change?
+
+CANDIDATE TERMS
+---------------
+- भवति (bhavati)
+- भव (bhava)
+- परिवर्तन (pariṇāma)
+- विकार (vikāra)
+
+WHY THEY FAIL
+-------------
+- bhavati implies becoming or coming-into-being
+- bhava implies state or mode of being
+- pariṇāma implies transformation with outcome
+- vikāra implies alteration or distortion
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- aspectual verb usage
+- nominal abstraction
+- metaphysical framing (prakṛti / puruṣa distinctions)
+- layered commentary (bhāṣya tradition)
+
+COST OF WORKAROUND
+------------------
+High (philosophical elaboration and commentary dependence)
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Sanskrit philosophy repeatedly reconstructs persistence-through-change
+via metaphysical systems rather than a neutral carrier.
+Change is systematised, not lexicalised.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

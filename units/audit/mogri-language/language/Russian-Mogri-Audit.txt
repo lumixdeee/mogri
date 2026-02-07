@@ -1,0 +1,50 @@
+Russian-Mogri-Audit.txt
+======================
+
+Language: Russian
+ISO code: ru
+Native speakers consulted: grammatical tradition
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+- philosophical
+
+CORE QUESTION
+-------------
+Does Russian provide a neutral carrier for persistence-through-change?
+
+CANDIDATE TERMS
+---------------
+- становиться (stanovit’sya)
+- быть (byt’)
+
+WHY THEY FAIL
+-------------
+- становиться implies becoming-into
+- aspect forces completion or boundedness
+- imperfective still implies trajectory
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- aspectual contrast
+- prefix manipulation
+- paraphrase
+
+COST OF WORKAROUND
+------------------
+High (aspect pressure)
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Aspect does heavy lifting but prevents neutral persistence.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

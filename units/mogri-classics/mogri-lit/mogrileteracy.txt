@@ -1,0 +1,17 @@
+# mogrileteracy.txt
+
+mogrileteracy (n.)
+
+The adoption of an apparent typo, slip, or error into a new semantic
+direction, where the deviation itself becomes informative.
+
+A mistake is not corrected back to baseline,
+but explored under constraint to test whether new structure appears.
+
+Distinguished from nonsense by:
+- falsifiability
+- bounded exploration
+- rejection of literal enactment
+
+The joke dies.
+The structure may remain.

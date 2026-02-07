@@ -1,0 +1,49 @@
+Amharic-Mogri-Audit.txt
+======================
+
+Language: Amharic
+ISO code: am
+Native speakers consulted: grammatical tradition
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+
+CORE QUESTION
+-------------
+Does Amharic provide a neutral lexical carrier for persistence-through-change?
+
+CANDIDATE TERMS
+---------------
+- መሆን (mə-hon)
+- መቀየር (mə-qäyyär)
+
+WHY THEY FAIL
+-------------
+- mə-hon implies being or becoming
+- mə-qäyyär implies change
+- derivational morphology implies outcomes
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- verb derivation
+- aspectual marking
+- narrative framing
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Like other Semitic languages, change is encoded morphologically.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

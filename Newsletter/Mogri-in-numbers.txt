@@ -1,0 +1,35 @@
+This list is incomplete and mogritious
+
+How much is mogri?
+Good question. According to my robot, QA'ed by me:
+Mogri is one of 105 'semantic primes/primitives' as identified by chatGPT 5.2
+By this measure, it's just under 1%. However, it's not. Not all primitives are  
+equal, and mogri will almost certainly have less share of the total semantic  
+load of the english speaking world than would, say, time, you, that, fact, being, etc.
+
+So we turn to the robot to try to estimate how many people worldwide could use  
+mogri or equivalent, figure out the savings from using it as much as possible  
+and estimate how many person work units that replaces.
+
+Between ~0.5 million and 9 million approx
+Roughly equivalent to saving between a 1000th and a 20,000th
+or 0.05% to 0.1% of effort, which isn't 1%, but is rather a lot
+
+If it were mapped onto $100 Trillion of GDP (which we shouldn't),
+that's just $5-100 Billion per year. So that's how much mogri is, in a mogricious sense.
+
+
+How fast is mogri?
+Same as max fps of reality i.e. planc lengths light goes per second in a vacuum
+We are sorry, we cannot go any faster than this.  
+
+
+How many people / languages could benefit from mogri?  
+(tbc)
+
+
+how tall is mogri?  
+Eleven and a pi'th imptric decinches  
+(a pi'th=pi^-1)  
+(imptric=(met+imp)/2)
+(decinch=10inch)

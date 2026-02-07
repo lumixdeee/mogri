@@ -1,0 +1,50 @@
+HakkaChinese-Mogri-Audit.txt
+===========================
+
+Language: Hakka Chinese
+ISO code: hak
+Native speakers consulted: regional usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- oral
+
+CORE QUESTION
+-------------
+Does Hakka Chinese lexicalise persistence-through-change neutrally?
+
+CANDIDATE TERMS
+---------------
+- 變 (pien)
+- 成 (sàng)
+- 化 (fa)
+
+WHY THEY FAIL
+-------------
+- imply change events or becoming-into
+- strong reliance on particles and context
+- no neutral carrier independent of situation
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- aspectual particles
+- serial verbs
+- contextual inference
+
+COST OF WORKAROUND
+------------------
+Low
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Hakka aligns with other Sinitic varieties in resisting abstraction.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

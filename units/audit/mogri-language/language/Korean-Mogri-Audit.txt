@@ -1,0 +1,50 @@
+Korean-Mogri-Audit.txt
+=====================
+
+Language: Korean
+ISO code: ko
+Native speakers consulted: pragmatic / everyday usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+
+CORE QUESTION
+-------------
+Does Korean lexicalise persistence-through-change as a neutral carrier?
+
+CANDIDATE TERMS
+---------------
+- 되다 (doeda)
+- 변하다 (byeonhada)
+
+WHY THEY FAIL
+-------------
+- 되다 implies becoming-into a state
+- 변하다 implies a change event
+- auxiliaries imply direction or completion
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- auxiliary verb chains
+- aspectual endings
+- contextual ellipsis
+
+COST OF WORKAROUND
+------------------
+Low to medium (distributed across grammar)
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Korean handles continuity through grammatical layering rather than
+lexical primitives.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

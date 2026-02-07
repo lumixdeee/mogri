@@ -1,0 +1,48 @@
+Indonesian-Mogri-Audit.txt
+=========================
+
+Language: Indonesian (Bahasa Indonesia)
+ISO code: id
+Native speakers consulted: everyday usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- administrative
+
+CORE QUESTION
+-------------
+Does Indonesian lexicalise persistence-through-change neutrally?
+
+CANDIDATE TERMS
+---------------
+- menjadi
+- berubah
+
+WHY THEY FAIL
+-------------
+- menjadi implies becoming-into
+- berubah implies change event
+- both imply state transition
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- aspectual markers
+- contextual framing
+- serial constructions
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Indonesian favours clarity over abstraction; neutral carriers are rare.
+
+STATUS
+------
+☑ Still missing mogri

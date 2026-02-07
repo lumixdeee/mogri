@@ -1,0 +1,49 @@
+Tigrinya-Mogri-Audit.txt
+======================
+
+Language: Tigrinya
+ISO code: ti
+Native speakers consulted: grammatical tradition
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+
+CORE QUESTION
+-------------
+Does Tigrinya lexicalise persistence-through-change neutrally?
+
+CANDIDATE TERMS
+---------------
+- ሆነ (hone)
+- ተቀየረ (täqäyyärä)
+
+WHY THEY FAIL
+-------------
+- hone implies being or becoming
+- täqäyyärä implies change
+- Semitic derivation encodes result
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- verb derivation
+- aspectual framing
+- narrative sequencing
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Closely parallels Amharic and Arabic patterns.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

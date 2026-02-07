@@ -1,0 +1,48 @@
+Ilocano-Mogri-Audit.txt
+======================
+
+Language: Ilocano
+ISO code: ilo
+Native speakers consulted: everyday usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- oral
+
+CORE QUESTION
+-------------
+Does Ilocano lexicalise persistence-through-change neutrally?
+
+CANDIDATE TERMS
+---------------
+- agbalin
+- agbaliw
+
+WHY THEY FAIL
+-------------
+- agbalin implies becoming-into
+- agbaliw implies change
+- verbs encode result-oriented transitions
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- verbal affixation
+- aspectual framing
+- narrative sequencing
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Ilocano expresses continuity through verb morphology, not primitives.
+
+STATUS
+------
+☑ Still missing mogri

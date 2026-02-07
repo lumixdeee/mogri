@@ -1,0 +1,50 @@
+Turkish-Mogri-Audit.txt
+======================
+
+Language: Turkish
+ISO code: tr
+Native speakers consulted: grammatical tradition
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+
+CORE QUESTION
+-------------
+Does Turkish provide a neutral lexical carrier for persistence-through-change?
+
+CANDIDATE TERMS
+---------------
+- olmak
+- dönüşmek
+- değişmek
+
+WHY THEY FAIL
+-------------
+- olmak implies being or becoming
+- dönüşmek implies transformation
+- değişmek implies change between states
+- agglutination still encodes endpoints
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- agglutinative suffix chains
+- aspectual marking
+- narrative framing
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Turkish grammar is expressive but goal-oriented; neutrality is disfavoured.
+
+STATUS
+------
+☑ Still missing mogri

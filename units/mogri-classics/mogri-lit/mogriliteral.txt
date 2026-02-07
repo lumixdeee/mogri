@@ -1,0 +1,14 @@
+# mogriliteral.txt
+
+mogriliteral (adj.)
+
+Claimed exactness or literality that does not survive contact with practice.
+
+Appears precise.
+Behaves approximate.
+
+Often invoked to close discussion.
+Usually falsified by outcomes, edge cases, or context shifts.
+
+Distinct from error:
+the speaker believes they are being literal.

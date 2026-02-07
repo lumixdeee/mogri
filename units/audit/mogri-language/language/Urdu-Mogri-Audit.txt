@@ -1,0 +1,48 @@
+Urdu-Mogri-Audit.txt
+===================
+
+Language: Urdu
+ISO code: ur
+Native speakers consulted: everyday + literary usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+
+CORE QUESTION
+-------------
+Does Urdu have a neutral carrier for persistence-through-change?
+
+CANDIDATE TERMS
+---------------
+- ہونا (honā)
+- بننا (ban-nā)
+
+WHY THEY FAIL
+-------------
+- imply state or becoming-into
+- rely on light-verb constructions
+- collapse into endpoints
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- compound verbs
+- aspectual markers
+- poetic metaphor
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no  
+
+NOTES
+-----
+Parallels Hindi closely; expressive but not lexicalised.
+
+STATUS
+------
+☑ Still missing mogri

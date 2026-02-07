@@ -1,0 +1,117 @@
+LEXICALISATION-DISCOURAGED.txt
+==============================
+
+Purpose
+-------
+This file lists languages for which introducing or forcing a lexical
+mogri-equivalent is discouraged.
+
+This is not a claim of deficiency.
+It records cases where lexicalising mogri would reduce clarity,
+damage existing expressive systems, or violate native usage norms.
+
+KEY
+---
+D1 = Context-first language
+     Meaning primarily carried by context, particles, omission,
+     or discourse structure rather than lexical primitives.
+
+D2 = Aspect / morphology already does the work
+     Persistence-through-change is handled by aspectual systems,
+     verb derivation, or suffix chains; a new carrier would interfere
+     or duplicate.
+
+D3 = Expressive or cultural resistance
+     Language prefers narrative, poetic, theological, or relational
+     framing; abstraction via a neutral carrier would flatten meaning.
+
+---
+
+LANGUAGES (LEXICALISATION DISCOURAGED)
+-------------------------------------
+
+Classical Chinese (lzh)        - D1
+Mandarin Chinese (zh)          - D1
+Wu Chinese (wuu)               - D1
+Cantonese / Yue (yue)          - D1
+Min Nan / Hokkien (nan)        - D1
+Hakka Chinese (hak)            - D1
+
+Japanese (ja)                  - D1
+Korean (ko)                    - D1
+
+Thai (th)                      - D1
+Lao (lo)                       - D1
+Vietnamese (vi)                - D1
+Khmer (km)                     - D1
+Burmese (my)                   - D1
+
+Classical Chinese (lzh)        - D1
+Sanskrit (sa)                  - D3
+Ancient Greek (grc)            - D3
+Latin (la)                     - D3
+
+Biblical Hebrew (hbo)          - D3
+Rabbinic Hebrew (he, hist.)    - D3
+Aramaic (arc)                  - D3
+
+Arabic (MSA) (ar)              - D2
+Egyptian Arabic (arz)          - D2
+Maghrebi Arabic (regional)     - D2
+Amharic (am)                   - D2
+Tigrinya (ti)                  - D2
+
+Russian (ru)                   - D2
+Polish (pl)                    - D2
+Czech / Slavic family (gen.)   - D2
+
+Turkish (tr)                   - D2
+Uzbek (uz)                     - D2
+Kazakh / Turkic family (gen.)  - D2
+
+Tamil (ta)                     - D2
+Telugu (te)                    - D2
+Kannada (kn)                   - D2
+Malayalam (ml)                 - D2
+
+Persian (fa)                   - D3
+Urdu (ur)                      - D2
+Hindi (hi)                     - D2
+Bengali (bn)                   - D2
+Punjabi (pa)                   - D2
+Marathi (mr)                   - D2
+Gujarati (gu)                  - D2
+Nepali (ne)                    - D2
+Sinhala (si)                   - D2
+
+Swahili (sw)                   - D2
+Yoruba (yo)                    - D1
+Hausa (ha)                     - D1
+Oromo (om)                     - D1
+Somali (so)                    - D2
+Shona (sn)                     - D2
+Chichewa / Nyanja (ny)         - D2
+Fula / Fulfulde (ff)           - D1
+
+Javanese (jv)                  - D1
+Indonesian (id)                - D2
+Malay (ms)                     - D2
+Tagalog / Filipino (tl/fil)    - D2
+Cebuano (ceb)                  - D2
+Ilocano (ilo)                  - D2
+Malagasy (mg)                  - D2
+Quechua (qu)                   - D2
+
+---
+
+NOTES
+-----
+- Multiple reasons may apply; only the dominant one is listed.
+- “Discouraged” does not mean impossible, only unjustified.
+- English is intentionally excluded:
+  English is classified separately as “mogri latent”.
+
+Status
+------
+This list is considered stable unless a native-speaker counterexample
+is demonstrated and agreed.

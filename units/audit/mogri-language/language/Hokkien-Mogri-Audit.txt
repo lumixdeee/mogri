@@ -1,0 +1,50 @@
+Hokkien-Mogri-Audit.txt
+======================
+
+Language: Min Nan (Hokkien / Taiwanese)
+ISO code: nan
+Native speakers consulted: everyday / oral usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- oral
+
+CORE QUESTION
+-------------
+Does Min Nan lexicalise persistence-through-change neutrally?
+
+CANDIDATE TERMS
+---------------
+- 變 (piàn)
+- 成 (chiâⁿ)
+- 化 (hòa)
+
+WHY THEY FAIL
+-------------
+- imply change or becoming-into
+- aspect and particles carry most meaning
+- no neutral carrier independent of context
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- aspect particles
+- serial verb constructions
+- discourse context
+
+COST OF WORKAROUND
+------------------
+Low
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Min Nan strongly prefers contextual continuity over abstraction.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

@@ -1,0 +1,49 @@
+Mandarin-Mogri-Audit.txt
+=======================
+
+Language: Mandarin Chinese
+ISO code: zh
+Native speakers consulted: contextual usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+
+CORE QUESTION
+-------------
+Does Mandarin lexicalise persistence-through-change as a single carrier?
+
+CANDIDATE TERMS
+---------------
+- 变 (biàn)
+- 成为 (chéngwéi)
+
+WHY THEY FAIL
+-------------
+- biàn implies a change event
+- chéngwéi implies becoming-into
+- meaning depends on context rather than a carrier
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- aspect particles
+- serial verbs
+- omission and contextual inference
+
+COST OF WORKAROUND
+------------------
+Medium (distributed across context)
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Mandarin resists lexical pinning; forcing mogri would over-specify.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

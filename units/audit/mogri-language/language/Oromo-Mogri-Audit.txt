@@ -1,0 +1,49 @@
+Oromo-Mogri-Audit.txt
+====================
+
+Language: Oromo (Afaan Oromo)
+ISO code: om
+Native speakers consulted: everyday usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- oral
+
+CORE QUESTION
+-------------
+Does Oromo lexicalise persistence-through-change as a neutral carrier?
+
+CANDIDATE TERMS
+---------------
+- taʼuu
+- jijjiirama
+
+WHY THEY FAIL
+-------------
+- taʼuu implies being or becoming
+- jijjiirama implies change or alteration
+- verbs encode transition or result
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- verbal derivation
+- aspectual framing
+- discourse context
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Change is expressed relationally through verb systems rather than carriers.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

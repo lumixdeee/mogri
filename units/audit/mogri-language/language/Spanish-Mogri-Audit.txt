@@ -1,0 +1,54 @@
+Spanish-Mogri-Audit.txt
+======================
+
+Language: Spanish
+ISO code: es
+Native speakers consulted: everyday + philosophical usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+- philosophical
+
+CORE QUESTION
+-------------
+Does Spanish have a single neutral lexical carrier for persistence-through-change?
+
+CANDIDATE TERMS
+---------------
+- devenir
+- volverse
+- transformarse
+- convertirse
+
+WHY THEY FAIL
+-------------
+- devenir is literary and directional
+- volverse implies a change of state
+- transformarse implies an operation
+- convertirse implies becoming-into an identity
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- reflexive constructions
+- periphrastic verb forms
+- aspectual markers
+- metaphor (process, flow)
+
+COST OF WORKAROUND
+------------------
+High (verbosity and paraphrase)
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Spanish relies heavily on periphrasis and reflexivity to keep change
+alive without freezing it.
+
+STATUS
+------
+☑ Still missing mogri

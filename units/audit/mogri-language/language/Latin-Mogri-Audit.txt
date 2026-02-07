@@ -1,0 +1,54 @@
+Latin-Mogri-Audit.txt
+====================
+
+Language: Latin (Classical)
+ISO code: la
+Native speakers consulted: textual / academic tradition
+Date: 2026-01
+
+Register scope:
+- literary
+- philosophical
+- technical
+
+CORE QUESTION
+-------------
+Does Latin possess a neutral lexical carrier for persistence-through-change?
+
+CANDIDATE TERMS
+---------------
+- fieri
+- mutatio
+- transformatio
+- processus
+
+WHY THEY FAIL
+-------------
+- fieri implies becoming or coming to be
+- mutatio implies change between states
+- transformatio implies reshaping
+- processus reifies into a thing
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- periphrastic verb constructions
+- participial phrases
+- abstract noun stacking
+- rhetorical elaboration
+
+COST OF WORKAROUND
+------------------
+High (verbosity and formalism)
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Latin philosophical prose expands heavily to keep motion alive.
+The absence of a neutral carrier propagates into later European traditions.
+
+STATUS
+------
+☑ Still missing mogri

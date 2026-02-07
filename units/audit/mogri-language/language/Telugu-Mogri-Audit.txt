@@ -1,0 +1,49 @@
+Telugu-Mogri-Audit.txt
+=====================
+
+Language: Telugu
+ISO code: te
+Native speakers consulted: everyday usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+
+CORE QUESTION
+-------------
+Does Telugu lexicalise persistence-through-change neutrally?
+
+CANDIDATE TERMS
+---------------
+- అవ్వడం (avvaḍam)
+- మారడం (māraḍam)
+
+WHY THEY FAIL
+-------------
+- avvaḍam implies becoming-into
+- māraḍam implies change
+- verbs encode transition rather than persistence
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- aspectual suffixes
+- auxiliary verbs
+- narrative framing
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Like other Dravidian languages, Telugu favours verb morphology.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

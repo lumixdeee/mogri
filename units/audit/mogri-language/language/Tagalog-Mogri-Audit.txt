@@ -1,0 +1,49 @@
+Tagalog-Mogri-Audit.txt
+======================
+
+Language: Tagalog (Filipino)
+ISO code: tl / fil
+Native speakers consulted: everyday usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+
+CORE QUESTION
+-------------
+Does Tagalog lexicalise persistence-through-change as a neutral carrier?
+
+CANDIDATE TERMS
+---------------
+- maging
+- magbago
+- maging ganap
+
+WHY THEY FAIL
+-------------
+- maging implies becoming-into
+- magbago implies change or alteration
+- verbal focus system encodes outcomes
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- verbal focus/aspect
+- serial verb constructions
+- discourse context
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Change is encoded through voice and focus rather than neutral carriers.
+
+STATUS
+------
+☑ Still missing mogri

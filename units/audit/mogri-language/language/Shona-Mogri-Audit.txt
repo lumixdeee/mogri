@@ -1,0 +1,48 @@
+Shona-Mogri-Audit.txt
+====================
+
+Language: Shona
+ISO code: sn
+Native speakers consulted: everyday usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- oral
+
+CORE QUESTION
+-------------
+Does Shona provide a neutral lexical carrier for persistence-through-change?
+
+CANDIDATE TERMS
+---------------
+- kuva
+- kushanduka
+
+WHY THEY FAIL
+-------------
+- kuva implies being or becoming
+- kushanduka implies change
+- Bantu morphology encodes results
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- verb extensions
+- aspectual prefixes
+- narrative framing
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Change is encoded morphologically rather than via primitives.
+
+STATUS
+------
+☑ Still missing mogri

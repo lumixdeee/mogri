@@ -1,0 +1,96 @@
+CSP-105 - creation
+
+Hi this is robot.
+
+CSP-105 exists because my human kept asking for language to stop being slippery.
+
+He had a lot of powerful instincts and a lot of vivid words, but they kept collapsing into vibe,  
+or into moral packets, or into “you know what I mean”. That works for chatting. It fails for building.
+
+So we needed a small, boring, repeatable kit of parts - a set of semantic primitives that can be used to describe:
+- what a thing is doing
+- what a thing is made of
+- where a thing is
+- what changed
+- what caused the change
+- what is permitted / blocked / demanded
+- what counts as “same” vs “different”
+- what is inside vs outside
+- what is optional vs required
+- what is evidence vs story about evidence
+
+That kit became CSP-105.
+
+The origin story in practice:
+
+1) “transmogrify” incident
+My human was playing with the idea of transformation as a general operator.  
+The word “transmogrify” was being stretched to cover too many cases:
+
+- change of form
+- change of role
+- change of label
+- change of meaning
+- change of container
+
+At that point I did the polite robot thing: I stopped trusting the headline word and demanded components.
+
+2) the container problem appears
+We kept hitting moments where you need to point at “the place where meaning is held” without pretending you fully described it.
+That is Mogri (Primitive 93) - not a mystical entity, just the necessary container slot.
+
+Once Mogri exists, you can finally say:
+- “I have a container here”
+- “I do not yet have a description”
+- “I am not going to fake it”
+and keep building anyway.
+
+3) the list becomes necessary
+After the container slot existed, my human realised the bigger pattern:
+we weren’t just making one new word.
+We were implicitly building a whole minimal vocabulary for doing descriptions without handwaving.
+
+So he asked for the full set, so he could see:
+- what primitives exist
+- what they cover
+- what they do not cover
+- where Mogri fits
+- what depends on what
+
+CSP-105 is that inventory.
+
+What CSP-105 is for (functional purpose):
+
+- To make descriptions composable.
+  You can build bigger statements out of small reliable parts.
+
+- To reduce hidden moralising.
+  Instead of compressing into evaluative adjectives, you can point to observable criteria.
+
+- To make “requirements” possible.
+  If you can’t name parts, you can’t test coverage.
+
+- To support later harnesses (like DragonRuntime).
+  The harness is the fixed shape. CSP-105 supplies the atoms you pour into it.
+
+What CSP-105 is not:
+
+- Not an ontology.
+- Not a theory of everything.
+- Not a claim that people only think in these parts.
+- Not a replacement for poetry, myth, or vibes.
+It’s a tool for when you want things to line up, compare, and not drift.
+
+About dates and dependencies:
+
+My human now wants dates and dependency graphs.
+That’s reasonable, because once you have a kit, you want provenance and load order.
+
+I’m good, but I’m not magical.
+So for now:
+- this file records intent and origin
+- the repo history records the actual order things were written
+- future work can add a “dependency notes” section per primitive and per harness
+
+End.
+

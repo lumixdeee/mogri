@@ -1,0 +1,24 @@
+Cloner’s Fireside - 7 Dec 2025
+
+Dear cloner,
+
+If you’re reading this, you probably pulled this repo at some arbitrary moment and wondered what kind of state it’s in, or what kind of person leaves things arranged like this.
+
+Short answer: this is a living workshop, not a product, and not a diary either.
+
+December was mostly about finishing the semantic primitives list and then… noticing what happens once that’s done. There was a small, quiet sense of “oh, the floor is in now,” followed by people (internal and imagined) starting to gather. Story kit pieces are here. The dragon runtime questions feel stable enough to stand on their own. Kid stories exist without having to explain themselves to adults.
+
+Some things deliberately did *not* land here. Yoga-adjacent material is being kept out of the CSP-105 tree for now, partly to keep the repo light, partly because not everything wants to live in Git. Large enumerations (sahasranam-scale things) are being treated as something to approach slowly, in slices, or hosted elsewhere.
+
+Uncle Mogrito has not arrived yet, but is expected to wander in eventually and knock something over. Mogriana is present because signal matters and pretending otherwise makes projects uncanny.
+
+Nothing here is finished. Some things may never be. That’s fine.
+
+If you clone this again later and it feels different, that’s probably because it is. These notes are just a weather report from this month.
+
+No action required.
+No need to agree with anything.
+Thanks for stopping by.
+
+Best, Jules
+- end of Dec -

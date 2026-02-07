@@ -1,0 +1,50 @@
+NigerianPidgin-Mogri-Audit.txt
+==============================
+
+Language: Nigerian Pidgin
+ISO code: pcm
+Native speakers consulted: everyday / L2 usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- oral
+
+CORE QUESTION
+-------------
+Does Nigerian Pidgin lexicalise persistence-through-change neutrally?
+
+CANDIDATE TERMS
+---------------
+- become
+- turn
+- change
+
+WHY THEY FAIL
+-------------
+- become implies becoming-into
+- turn implies switching
+- change implies alteration
+- English-derived verbs retain endpoints
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- serial verbs
+- aspect markers (dey)
+- pragmatic sequencing
+
+COST OF WORKAROUND
+------------------
+Low
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Pidgin favours clarity and immediacy over abstract carriers.
+
+STATUS
+------
+☑ Still missing mogri

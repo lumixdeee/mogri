@@ -1,0 +1,49 @@
+Swahili-Mogri-Audit.txt
+======================
+
+Language: Swahili
+ISO code: sw
+Native speakers consulted: everyday usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- administrative
+
+CORE QUESTION
+-------------
+Does Swahili have a neutral carrier for persistence-through-change?
+
+CANDIDATE TERMS
+---------------
+- kuwa
+- kubadilika
+- kugeuka
+
+WHY THEY FAIL
+-------------
+- kuwa implies being or becoming
+- kubadilika implies change
+- kugeuka implies turning or reversal
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- verb extensions
+- aspectual prefixes
+- contextual narration
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Bantu verb morphology encodes change relationally, not neutrally.
+
+STATUS
+------
+☑ Still missing mogri

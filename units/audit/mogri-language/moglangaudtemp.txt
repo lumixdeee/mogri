@@ -1,0 +1,91 @@
+MOGRI AUDIT TEMPLATE (v0.1)
+==========================
+
+Language:
+ISO code (optional):
+Native speakers consulted:
+Date:
+
+Register scope:
+- everyday
+- literary
+- technical
+- philosophical
+(check all that apply)
+
+CORE QUESTION
+-------------
+Does the language have a single, ordinary lexical item (verb / root / noun-verb)
+that can carry ALL of the following at once:
+
+- persistence through change
+- change without a start or end event
+- motion without goal or destination
+- continuity without identity
+- neutral tone (no moral, teleological, or metaphysical loading)
+- usable outside specialist philosophy
+
+CANDIDATE TERMS
+---------------
+(list any proposed equivalents)
+
+- term:
+  register:
+  literal gloss:
+  everyday usage? yes / no
+
+WHY THEY FAIL (if they fail)
+----------------------------
+(check all that apply)
+
+- implies destination or endpoint
+- implies transformation between states
+- implies an external operation
+- reifies into a noun or substance
+- requires metaphor stacking
+- restricted to technical / philosophical register
+- culturally or morally loaded
+- ambiguous in casual use
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+(list constructions actually used)
+
+- grammatical aspect
+- reflexive forms
+- nominalisation
+- serial verbs
+- metaphor (flow / growth / construction / etc.)
+- repetition / re-derivation
+- contextual inference
+- other:
+
+COST OF WORKAROUND
+------------------
+(low / medium / high)
+
+Consider:
+- verbosity
+- ambiguity
+- repetition
+- need for re-proof
+- reader/listener fatigue
+
+VERDICT
+-------
+Mogri present?
+- yes
+- no
+- partial / disputed
+
+If partial, explain boundary conditions:
+
+NOTES
+-----
+(any observations, examples, philosophy fallout, speaker intuitions)
+
+STATUS
+------
+☐ Still missing mogri
+☐ Candidate under discussion
+☐ Resolved (rare)

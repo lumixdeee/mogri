@@ -1,0 +1,88 @@
+CSP-105 / Primitive 93
+MOGRI – USES & MISUSES
+STATUS: INFORMATIVE (NON-NORMATIVE)
+SCOPE: This document illustrates correct usage patterns and common
+       misuse patterns of mogri. It introduces no new grammar,
+       definitions, or rules, and does not modify any normative
+       specification.
+
+============================================================
+PURPOSE
+============================================================
+
+This document exists to prevent predictable misuse of mogri that:
+- is grammatically valid but semantically incorrect
+- feels reasonable to new users
+- is not fully captured by formal grammar or refusal lists
+
+It is a firebreak, not an extension.
+
+============================================================
+CORRECT USES (PATTERN LEVEL)
+============================================================
+
+These are situations where mogri does real work.
+
+1. Halting harmful over-explanation
+   Mogri is correctly used to stop explanation that is actively
+   degrading clarity.
+   Signal: “This was clearer before more words were added.”
+
+2. Naming distortion without assigning blame
+   Mogri can be used to identify a failure mode without accusing
+   speakers of bad intent, incompetence, or malice.
+
+3. Distinguishing mystery from degradation
+   Mogri is used only when explanation damages meaning.
+   Mystery, opacity, or depth alone are not mogri.
+
+4. Meta-discussion of explanations
+   Mogri applies to descriptions, justifications, narratives,
+   diagrams, or frameworks about processes - not to the processes
+   themselves.
+
+============================================================
+COMMON MISUSES (PATTERN LEVEL)
+============================================================
+
+These errors recur even when grammar is technically correct.
+
+1. Emotional substitution
+   Using mogri to mean boredom, irritation, anxiety, or dislike.
+   Why tempting: the feeling of overload resembles emotional fatigue.
+   Why wrong: mogri is structural, not affective.
+   Violates: scope rule (epistemic, not emotional).
+
+2. Process misapplication
+   Applying mogri directly to rituals, systems, experiences,
+   or natural phenomena.
+   Why tempting: processes can be messy or hard to describe.
+   Why wrong: mogri applies only to information about processes.
+   Violates: “maps, not territory”.
+
+3. Casual collapse of mogr- into mog-
+   Using mogri where mogring or mogried applies.
+   Why tempting: both involve low-stakes disengagement.
+   Why wrong: mogr- implies semantic distortion; mog- does not.
+   Violates: boundary protection between mog- and mogr-.
+
+4. Totalising use
+   Claims such as “everything is mogri” or “all explanation mogrifies”.
+   Why tempting: once noticed, mogri feels ubiquitous.
+   Why wrong: mogri requires contrast to function.
+   Violates: explanatory usefulness.
+
+5. Disagreement masking
+   Using mogri to dismiss views one simply disagrees with.
+   Why tempting: mogri can halt discussion efficiently.
+   Why wrong: mogri names degradation of clarity, not conflict.
+   Violates: correct-use pattern 1.
+
+============================================================
+ABUSE WARNINGS (EXPLICIT)
+============================================================
+
+The following uses are prohibited in spirit, even if phrased
+grammatically.
+
+- Mogri must not be us

@@ -1,0 +1,50 @@
+Gujarati-Mogri-Audit.txt
+=======================
+
+Language: Gujarati
+ISO code: gu
+Native speakers consulted: everyday usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+
+CORE QUESTION
+-------------
+Does Gujarati provide a neutral lexical carrier for persistence-through-change?
+
+CANDIDATE TERMS
+---------------
+- થવું (thavũ)
+- બનવું (banũ)
+- બદલાવું (badlāvũ)
+
+WHY THEY FAIL
+-------------
+- thavũ implies being or becoming
+- banũ implies becoming-into
+- badlāvũ implies change
+- light verbs encode outcomes
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- compound verbs
+- aspectual particles
+- narrative continuity
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Gujarati aligns closely with other Indo-Aryan patterns.
+
+STATUS
+------
+☑ Still missing mogri

@@ -1,0 +1,49 @@
+Yoruba-Mogri-Audit.txt
+=====================
+
+Language: Yoruba
+ISO code: yo
+Native speakers consulted: everyday / tonal usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- oral
+
+CORE QUESTION
+-------------
+Does Yoruba lexicalise persistence-through-change as a neutral carrier?
+
+CANDIDATE TERMS
+---------------
+- di
+- yipada
+
+WHY THEY FAIL
+-------------
+- di implies becoming-into
+- yipada implies change or alteration
+- tonal context determines meaning
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- serial verb constructions
+- tonal modulation
+- discourse context
+
+COST OF WORKAROUND
+------------------
+Low to medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Meaning is negotiated through tone and sequence rather than lexical carriers.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

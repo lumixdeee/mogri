@@ -1,0 +1,74 @@
+CSP-105 / Primitive 93
+MOGRI – GRAMMAR PACK 02 (CLOSURE & COMPLETION)
+STATUS: FINAL
+SCOPE: This pack completes the productive grammar of mogri.
+NOTE: This pack includes ONLY forms not already present in the Core Grammar Pack
+      or Extended Grammar Pack 01.
+
+------------------------------------------------------------
+PURPOSE
+------------------------------------------------------------
+
+Pack 02 exists to close the mogri grammar without expanding it.
+It introduces only those forms required to:
+- preserve semantic boundaries
+- prevent misuse of existing forms
+- complete aspectual coverage of low-stakes engagement
+
+No expressive, baroque, or ornamental forms are permitted here.
+
+------------------------------------------------------------
+CANONICAL ADDITIONS (PACK 02 ONLY)
+------------------------------------------------------------
+
+mogring
+  Part of speech: gerund / activity noun
+  Definition:
+    Low-stakes, ambient engagement with a place, activity, or system
+    that is partially active or informally usable, without escalation,
+    justification, or transformation.
+  Constraint:
+    Must not be used for situations involving identity shift,
+    semantic distortion, or irreversible change.
+
+mogried
+  Part of speech: state adjective / past-participle analogue
+  Definition:
+    The natural completion of mogring, reached without boredom,
+    irritation, dissatisfaction, or residue.
+  Constraint:
+    Must not be used to mean bored, annoyed, depleted, or averse.
+
+------------------------------------------------------------
+BOUNDARY STATEMENT (NORMATIVE)
+------------------------------------------------------------
+
+The forms in this pack exist solely to protect the boundary between:
+
+- mog-  (low-stakes, ambient, non-transformative engagement)
+- mogr- (epistemic distortion caused by over-explanation)
+
+Use of mogr- forms where mog- forms apply, or vice versa,
+constitutes incorrect usage.
+
+------------------------------------------------------------
+SCOPE RULE (BINDING)
+------------------------------------------------------------
+
+Mogri applies only to information about processes,
+never to processes themselves.
+
+------------------------------------------------------------
+EXTENSION POLICY
+------------------------------------------------------------
+
+No further forms may be added to the mogri grammar unless:
+- a genuine semantic gap is demonstrated, AND
+- that gap cannot be filled by existing canonical forms, AND
+- the proposed form does not collapse existing boundaries.
+
+Expressive or ornamental forms belong exclusively in Extended Pack 01.
+
+------------------------------------------------------------
+END OF PACK 02
+------------------------------------------------------------

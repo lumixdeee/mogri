@@ -1,0 +1,10 @@
+
+
+  info types breakdown table showing position of mogri:
+  __________________________________________________
+                |  important   |    unimportant  |
+  ______________|______________|_________________|__                
+   known        |    spec      |    out of scope |
+  ______________|______________|_________________|__
+   unknown      |    mogri     |    irrelevant   |   
+   

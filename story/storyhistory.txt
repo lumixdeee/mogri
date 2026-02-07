@@ -1,0 +1,70 @@
+=========================================
+
+storyhistory.txt
+
+This file describes a minimal, functional history of “story” as a human practice.
+It avoids mythic, symbolic, or moral definitions and treats story as a survival tool.
+
+1. Pre-named nommo (unnamed process)
+
+Before stories had names, humans already faced situations where something happened
+that could not be explained by known patterns.
+
+A typical trigger was anomalous predation:
+food-supply members were lost, predation was certain, but no known predator fit.
+
+In these cases, groups slowed inference, gathered observations, externalised thought
+(gesture, reenactment, marks), delayed naming, and kept explanations provisional
+until constraints accumulated.
+
+This process had no fixed label. It was enacted, not theorised.
+Its function was to maintain coherence under uncertainty long enough to survive.
+
+This unnamed process is what later African traditions refer to as “nommo”,
+but it clearly predates the word.
+
+2. Story (named accounts of events)
+
+Over time, repeated use of this process stabilised into shareable accounts.
+
+A story, in this sense, is not fiction or entertainment.
+It is a structured account linking:
+- an event
+- its investigation
+- provisional explanations
+- and a working resolution or control state
+
+Stories allowed groups to transmit knowledge across time,
+teach younger members how to respond to anomalies,
+and preserve lessons without resolving uncertainty too early.
+
+Myth, ritual, and symbolic narrative are later specialisations of this core function.
+
+3. Dragonruntime (formalised harness)
+
+Dragonruntime is a modern, explicit harness for the same function.
+
+It does not replace nommo or story.
+It constrains them.
+
+Dragonruntime exists to keep the original sense-making process usable
+under conditions of scale, abstraction, speed, and self-reference
+that exceed human-scale environments.
+
+It formalises questions, limits inference order,
+and prevents premature moralisation or anthropocentric framing.
+
+In short:
+- nommo is the ancestral process
+- story is its transmissible form
+- dragonruntime is a constraint harness for modern conditions
+
+=================================================================
+
+bonus poem:
+
+the beast we are hunting this morning is elves
+not pural nor single nor others nor selves
+not effing not essing not missing not lost
+not spectral not ghostly not faires not crost
+

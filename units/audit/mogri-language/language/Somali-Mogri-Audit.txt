@@ -1,0 +1,49 @@
+Somali-Mogri-Audit.txt
+=====================
+
+Language: Somali
+ISO code: so
+Native speakers consulted: everyday usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- oral
+
+CORE QUESTION
+-------------
+Does Somali provide a neutral lexical carrier for persistence-through-change?
+
+CANDIDATE TERMS
+---------------
+- noqosho
+- isbeddel
+
+WHY THEY FAIL
+-------------
+- noqosho implies becoming or turning into
+- isbeddel implies change
+- derivational morphology implies outcome
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- verbal morphology
+- aspectual markers
+- narrative sequencing
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Somali encodes continuity via verbal systems, not abstract primitives.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

@@ -1,0 +1,24 @@
+What does a story look like when you put it inside your robot?
+
+Your robot doesn’t experience a story.
+It stores it as a structured container.
+
+Inside that container are several ordered semantic chains,
+for example:
+- one person’s speech
+- another person’s reply
+- a scene description
+
+Each chain is explicitly labelled with:
+- who it comes from
+- what mode it’s in (speech, description, report, etc.)
+- how it’s anchored in time
+- what its status is (asserted, quoted, illustrative, etc.)
+
+If two stories have the same structure and labels,
+your robot treats them the same,
+regardless of whether humans think of one as fiction
+and the other as an account.
+
+Meaning and responsibility live outside your robot.
+Inside, there is only structure, labels, and order.

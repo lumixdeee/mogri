@@ -1,0 +1,9 @@
+# CSP‑105 Blob Slot 79 – Irgom
+79: Irgom | wildcard / freebee / foresight / backsplanation
+    purpose: flexible primitive reserved for experimentation and user configurability
+    categories:
+        - new_primitive: rare, genuinely novel concepts
+        - error_seed: deliberate placeholder to trigger iteration or engagement
+        - instrumentation: hooks for external coder or automated operations
+    user_configurable: true
+    notes: acts as a free slot allowing foresight planning and retrospective explanation; represents controlled flexibility

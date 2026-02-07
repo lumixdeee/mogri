@@ -1,0 +1,229 @@
+# Story Domains Covered by the Framework
+
+This document enumerates story domains understood by the framework.
+A *story domain* is any medium or state in which meaning unfolds across time,
+whether internally generated, externally mediated, embodied, symbolic, or interactive.
+
+The framework does not claim ownership of these domains.
+It provides lenses and tools that may be applied where useful.
+
+---
+
+## I. Internally Generated (Minimal External Mediation)
+
+- Sleeping dreams
+- Hypnagogic imagery (sleep onset)
+- Hypnopompic imagery (sleep exit)
+- Waking dreams
+  - spontaneous (reverie, daydream)
+  - induced (ritual, breath, rhythm)
+  - pharmacological
+  - manic / ecstatic
+  - traumatic / stress-induced
+- Memory replay (episodic recall)
+- Imagination / fantasy
+- Mental rehearsal
+- Intrusive imagery
+- Flashbacks
+- Hallucination (any cause)
+- Lucid dreaming (sleep-gated, control-restored)
+- Mood and affective fields (non-symbolic but meaning-bearing)
+
+---
+
+## II. Oral and Spoken Narrative
+
+- Oral storytelling
+- Spoken word
+- Poetry
+- Conversation
+- Lecture
+- Sermon
+- Teaching dialogue
+- Song lyrics (without music)
+- Audiobook
+- Radio drama
+- Podcast narrative
+
+---
+
+## III. Textual and Inscribed Narrative
+
+- Myth
+- Folktale
+- Legend
+- Sacred text
+- Textbook
+- Essay
+- Novel
+- Short story
+- Comic script (text-only)
+- Instruction manual
+- Case study
+- Legal narrative
+- Scientific narrative (papers, reports)
+- Diary / journal
+- Letters
+- Online writing and social media threads
+
+---
+
+## IV. Visual Static Narrative
+
+- Cave painting
+- Iconography
+- Religious art
+- Illustration
+- Painting
+- Photography
+- Diagram
+- Map
+- Infographic
+- Comic books / graphic novels
+- Tarot and symbolic decks
+- Sigils and symbolic notation
+
+---
+
+## V. Visual Dynamic (Non-Interactive)
+
+- Theatre
+- Opera
+- Ballet
+- Dance performance
+- Ritual performance
+- Film
+- Short film
+- Movies
+- Television series
+- Animation
+- Music videos
+- Projection and installation art
+
+---
+
+## VI. Audio Dynamic
+
+- Music (instrumental)
+- Music (with lyrics)
+- Chant
+- Drumming
+- Soundscapes
+- ASMR
+- Field recordings
+- Sonic ritual
+
+---
+
+## VII. Interactive Symbolic
+
+- Tabletop role-playing games
+- Live-action role play (LARP)
+- Improvised theatre
+- Call-and-response ritual
+- Story circles
+- Participatory teaching
+- Narrative therapy sessions
+
+---
+
+## VIII. Interactive Digital
+
+- Video games (linear narrative)
+- Video games (branching narrative)
+- Sandbox and emergent games
+- Interactive fiction
+- Visual novels
+- Virtual reality (VR) narrative
+- Augmented reality (AR) narrative
+- Mixed-reality experiences
+- AI-assisted narrative systems
+
+---
+
+## IX. Embodied and Enacted Narrative
+
+- Ritual
+- Ceremony
+- Sport-as-myth
+- Martial forms
+- Yoga and movement sequences
+- Dance floors
+- Pilgrimage
+- Protest
+- Children’s play
+- Playground myth-making
+
+---
+
+## X. Hybrid and Emergent Narrative
+
+- Dreams recorded and re-entered as story
+- Wake-dream → art → myth feedback loops
+- Meme culture
+- Internet lore
+- Fandom canon
+- Alternate reality games (ARGs)
+- Urban legends
+- Conspiracy narratives
+- Collective sense-making events
+- Mass symbolic or narrative surges
+
+---
+
+## XI. Meta-Narrative
+
+- Story-about-story
+- Criticism and commentary
+- Lore explainers
+- Theory and taxonomy
+- Narrative analysis and modeling
+
+---
+
+# Domains Explicitly Out of Interfacing Scope
+
+The following are **valid semantic domains**, but the framework does not
+directly interface with them. These domains are constrained, deterministic,
+or optimised for correctness rather than meaning.
+
+The framework may describe, document, or metaphorically reference them,
+but does not claim operational authority within them.
+
+---
+
+## A. Purely Mechanical Domains
+
+- Arithmetic
+- Logic proofs
+- Checksums
+- Cryptographic primitives
+- Hashing and encoding primitives
+
+---
+
+## B. Fully Constrained and Deterministic Systems
+
+- Low-level protocols
+- Signal encoding specifications
+- Clocked systems
+- State machines
+- Hardware timing and sequencing
+- Formal grammars used as execution constraints
+
+---
+
+## C. Precision-First Verification Domains
+
+- Measurement and calibration
+- Timing analysis
+- Formal verification
+- Safety-critical validation
+- Proof systems where ambiguity is an error
+
+---
+
+These domains are respected, not absorbed.
+
+Bridges, visualisations, metaphors, and educational layers may exist
+as optional, downstream work, but correctness sovereignty remains local.

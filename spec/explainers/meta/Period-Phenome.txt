@@ -1,0 +1,95 @@
+
+Period-correct invented language: What's available and when?
+
+Quick cheat sheet:
+
+>2M: emotional calls
+
+2M–200k: richer calls, no style
+
+200k–70k: speech + mockery + flair
+
+70k+: anything goes
+
+=====================================
+
+# PALEO-SPEECH CHEAT (MEDIA MODE)
+# time bucket + allowed sound inventory
+# rule: withhold sounds, never invent new ones
+
+>2_000_000_YA:   # chimping / pre-speech
+
+NO_FRICATIVES:
+  f v s z ʃ ʒ θ ð x ɣ h
+
+NO_LIQUIDS:
+  l r ɾ ɹ ʀ
+
+NO_GLIDES:
+  j w
+
+NO_SCHWA_OR_REDUCTION:
+  ə ɐ ɪ ʊ ɛ ɔ
+
+NO_AFFRICATES:
+  tʃ dʒ ts dz
+
+NO_CLUSTERS:
+  CC (any consonant+consonant onset or coda)
+  CCC (absolutely not)
+
+NO_TIMING_TRICKS:
+  contrastive stress
+  vowel length contrasts
+  deliberate rhythm
+  syllable counting
+
+ALLOWED (for sanity check):
+  vowels:        a (primary), u (edge)
+  consonants:    m n p b t d k g
+  structure:     CV (maybe CVC if emotional)
+
+
+2M_200K_YA:      # more sounds, still no style
+  vowels:        a i u
+  vowels_edge:   e o
+  consonants:    m n p b t d k g
+  edge:          s f l r (unstable, non-contrastive)
+  no:            ʃ θ ð v z clusters schwa
+  structure:     CV CVC (hesitant CC only)
+  note:          richer calls, no ornament, no phonetic play
+
+200K_70K_YA:     # speech unlock / mockery possible
+  vowels:        a e i o u
+  vowels_edge:   ə (unstressed, emerging)
+  consonants:    p b t d k g m n s f ʃ l r
+  edge:          v z θ ð
+  clusters:      pl tr kl str skr ʃr
+  structure:     CV CVC CCV CVCC
+  note:          style visible, accents mockable, flair allowed
+
+70K_YA_PLUS:     # modern speech
+  vowels:        full (incl schwa diphthongs reduction)
+  consonants:    full modern inventory
+  clusters:      unrestricted
+  structure:     unrestricted
+  note:          only cultural constraints remain
+
+# PRODUCTION RULES
+# - audiences forgive missing sounds
+# - audiences do NOT forgive premature precision
+# - if it sounds like acting class before 200k, delete it
+# - if someone can be teased for pronunciation, you are post-200k
+
+
+
+
+3 cavemen in a bar
+
+ummus
+em hest
+i’m the highest
+
+
+(narrative)
+

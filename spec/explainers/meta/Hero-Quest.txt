@@ -1,0 +1,59 @@
+CANONICAL HERO JOURNEY (STRUCTURAL CORE)
+(Status: Descriptive, closed, non-moral)
+
+This list names the load-bearing components of the archetypal hero journey.
+Items are structural, not stylistic. Order is typical, not mandatory.
+
+------------------------------------------------------------
+DEPARTURE
+------------------------------------------------------------
+
+1. Ordinary World
+   A stable but insufficient situation.
+
+2. Call
+   Disruption, lack, or pull toward change.
+
+3. Resistance
+   Hesitation, refusal, or cost-awareness.
+
+4. Threshold
+   Commitment beyond easy return.
+
+------------------------------------------------------------
+TRANSFORMATION
+------------------------------------------------------------
+
+5. Trials
+   Testing, learning, misfit, allies, opposition.
+
+6. Ordeal
+   Confrontation with loss, dissolution, or death-equivalent.
+
+7. Gain
+   Insight, capacity, object, or reorientation.
+
+------------------------------------------------------------
+RETURN
+------------------------------------------------------------
+
+8. Return Path
+   Re-entry is non-trivial.
+
+9. Integration
+   Applying the gain to life or world.
+
+10. Changed World
+    The world or the hero is now different.
+
+------------------------------------------------------------
+MOGRI NOTE
+------------------------------------------------------------
+
+If further subdivision, symbolism, or role-adding
+reduces clarity rather than increasing it,
+the analysis is mogrifying and should stop.
+
+------------------------------------------------------------
+END OF LIST
+------------------------------------------------------------

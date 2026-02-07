@@ -1,0 +1,12 @@
+Class: Do
+    "TheBeast"
+    "TheBest"
+    "ThePost"
+    "ThePest"
+
+Class: Dont
+    "wall"
+    "war"
+    "law"
+    "roar"
+(narrative)

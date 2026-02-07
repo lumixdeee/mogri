@@ -1,0 +1,50 @@
+Pashto-Mogri-Audit.txt
+=====================
+
+Language: Pashto
+ISO code: ps
+Native speakers consulted: everyday usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+
+CORE QUESTION
+-------------
+Does Pashto lexicalise persistence-through-change neutrally?
+
+CANDIDATE TERMS
+---------------
+- کېدل (kedal)
+- بدلول (badalawul)
+- ګرځېدل (gṛzedal)
+
+WHY THEY FAIL
+-------------
+- kedal implies becoming
+- badalawul implies change
+- gṛzedal implies turning or movement
+- verbs imply transition or outcome
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- aspectual framing
+- compound verbs
+- narrative sequencing
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Pashto expresses continuity through verbal systems rather than carriers.
+
+STATUS
+------
+☑ Still missing mogri

@@ -1,0 +1,49 @@
+Hausa-Mogri-Audit.txt
+====================
+
+Language: Hausa
+ISO code: ha
+Native speakers consulted: everyday / L2 usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- oral
+
+CORE QUESTION
+-------------
+Does Hausa lexicalise persistence-through-change neutrally?
+
+CANDIDATE TERMS
+---------------
+- zama
+- canza
+
+WHY THEY FAIL
+-------------
+- zama implies becoming or settling
+- canza implies change or alteration
+- strong reliance on context and aspect
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- serial verb constructions
+- discourse framing
+- pragmatic inference
+
+COST OF WORKAROUND
+------------------
+Low to medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Hausa spreads change across verb chains rather than naming it.
+
+STATUS
+------
+☑ Still missing mogri
+☑ Lexicalisation discouraged

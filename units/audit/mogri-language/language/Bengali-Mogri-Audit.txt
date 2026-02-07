@@ -1,0 +1,48 @@
+Bengali-Mogri-Audit.txt
+======================
+
+Language: Bengali
+ISO code: bn
+Native speakers consulted: everyday usage
+Date: 2026-01
+
+Register scope:
+- everyday
+- literary
+
+CORE QUESTION
+-------------
+Does Bengali lexicalise persistence-through-change neutrally?
+
+CANDIDATE TERMS
+---------------
+- হওয়া (haoyā)
+- হয়ে ওঠা (hoye oṭhā)
+
+WHY THEY FAIL
+-------------
+- imply becoming or attainment
+- rely on aspectual framing
+- collapse into state change
+
+COMMON WORKAROUNDS USED INSTEAD
+-------------------------------
+- compound verbs
+- aspectual suffixes
+- narrative context
+
+COST OF WORKAROUND
+------------------
+Medium
+
+VERDICT
+-------
+Mogri present? no
+
+NOTES
+-----
+Change is expressed narratively rather than via a single carrier.
+
+STATUS
+------
+☑ Still missing mogri

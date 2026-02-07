@@ -1,0 +1,35 @@
+I need a list of heros/heroines who:  
+lost their guru/teacher AND steed at the same time or in very close succession  
+give reasons for loss : injury, death, gone home to family reason, in a trance,  
+bust up/fall out, turned by other against hero,  
+any other reason categories i missed list first
+
+
+# lose_adjust.txt
+# Criteria for inclusion in dual-loss hero set
+
+REQUIRED:
+- Protagonist or central heroic agent
+- Presence of a guiding authority (teacher, guru, mentor, or equivalent)
+- Presence of a steed (animal, bonded mount, or explicit mobility analogue)
+- Loss of both within same arc or close narrative succession
+
+LOSS TYPES (non-exclusive):
+- Death
+- Injury / incapacitation
+- Betrayal or ideological rupture
+- Voluntary departure or withdrawal
+- Enchantment / trance / binding
+- Environmental or fate-based loss
+- Transformation rendering role unusable
+- Exile or banishment
+- Support withdrawal (divine, institutional, or protective)
+
+EXCLUSIONS:
+- Losses separated by long unrelated arcs
+- Purely symbolic teachers with no guiding function
+- Purely decorative mounts without narrative dependency
+
+NOTES:
+- Steed may be literal or functionally equivalent if explicitly framed as mobility or momentum
+- Teacher loss may be physical or authoritative, provided guidance is terminated

@@ -1,0 +1,5 @@
+Narrative	"EatingLanguage"
+Action		"EatingDirections"
+Container	"EverythingEats"
+Agent		  "IAmEatingItself"
+Identity	"FoxAlwaysEats"
