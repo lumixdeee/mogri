@@ -108,7 +108,7 @@ That is not a bug.
 
 ## What It Is (Briefly)
 
-This is a kit for noticing patterns in stories, experience, and meaning.
+Mogri, a semantic primitive or prime, part of the english language, a container for xyz
 Use what helps.
 Ignore what doesn’t.
 Raise an issue if something breaks or misleads.
