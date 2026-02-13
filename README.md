@@ -32,7 +32,7 @@ Magic is part of Mogri.
 
 ==================================================================================================
 
-Mogri;
+Mogri;  
 IS: everything unexplained, undefined, or open for invention  
 IS NOT: anything fully explained or defined  
 IS: what you might need to define or invent for this or that reason  
