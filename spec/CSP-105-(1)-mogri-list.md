@@ -5,15 +5,15 @@
 ==================================================================================
 
 
-93. Mogri / Undifferentiated Potential (Prehistory – Present 2025)  
+94. Mogri / Undifferentiated Potential (Prehistory – Present 2025)  
 
 ---
 
 *Notes:*  
 
-- The numbering preserves the original 1–105 scheme.  
+- The numbering preserves the original 1–106 scheme.  
 - Dates are approximate “in-use” (cognitive emergence) and “recognised” (first formal naming or systemisation).  
-- Mogri (93) is treated as the foundational container for all other primitives.  
+- Mogri (94) is treated as the foundational container for all other primitives.  
 - This format is ready for GitHub Markdown — headings, numbered lists, and parenthetical notes.  
 
 
@@ -32,11 +32,11 @@ Preserves original numbering, definitions, examples, and approximate in-use vs r
 
 
 
-## Primitive 93
+## Primitive 94
 
 
 
-93. Mogri / Undifferentiated Potential (Prehistory – Present 2025)  
+94. Mogri / Undifferentiated Potential (Prehistory – Present 2025)  
 Definition: The foundational proto-cognitive substrate that underlies all distinctions.  
 Examples: raw thought potential, pre-conceptual awareness, cognitive blank slate  
 
@@ -45,14 +45,14 @@ Examples: raw thought potential, pre-conceptual awareness, cognitive blank slate
 ## Notes
 
 1. **Numbering and format**  
-   - Original primitive numbers (1–105) are preserved for reference and historical tracking.  
+   - Original primitive numbers (1–106) are preserved for reference and historical tracking.  
    - Each primitive is listed in a 3-line format: name/descriptor, definition, examples.
 
 2. **Dates (in-use vs recognised)**  
    - Dates in parentheses indicate approximate cognitive *in-use* period (when humans likely used or understood the concept) and first formal *recognition* (when the primitive was explicitly named or systematised).  
    - Dates are rough estimates and intended as illustrative, not definitive.
 
-3. **Mogri (Primitive 93)**  
+3. **Mogri (Primitive 94)**  
    - Mogri represents the **foundational cognitive container** for all other primitives.  
    - It is *not* a derivative primitive and cannot be constructed from other primitives.  
    - Consider it a **conceptual runtime environment** rather than a specific entity.
