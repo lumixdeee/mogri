@@ -1,0 +1,1 @@
+Mogri (94, CSP-106) = minimal semantic container required to preserve framework-level intent across prompts. Without it, models drift and lose invariants. Not an entity or role. A pre-entity binding layer.
