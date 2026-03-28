@@ -50,7 +50,7 @@ Any language that looks mythic or symbolic is doing narrative work, not making c
 
 ## This Is Not a Productivity or Optimisation Tool
 
-The goal is not efficiency, performance, or improvement.
+The goal is not efficiency, performance, or improvement, however, these may be experienced as common side-effects.
 If something slows you down or makes you more cautious, that may be a feature.
 
 ---
