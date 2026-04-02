@@ -1,0 +1,5 @@
+Start with an understanding of mogri - https://github.com/lumixdeee/mogri/blob/main/example/mogri_usage-first_definition.txt
+
+Mogri grammar resources are here - https://github.com/lumixdeee/mogri/tree/main/spec
+
+Use mogri. A usage example is here - https://github.com/lumixdeee/mogri/blob/main/DragonHPD/old/Daenerys_Targaryen.txt
