@@ -25,7 +25,7 @@ Usefulness:
 - Allows worry to be acknowledged without  
   asserting severity or cause.
 
-- Creates a clean demogrification point  
+- Creates a visible demogrification point  
   when results, tests, or explanations arrive.
 
 Mogriemia does not claim illness.  
