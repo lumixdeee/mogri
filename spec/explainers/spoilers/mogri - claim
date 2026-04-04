@@ -11,7 +11,7 @@ Robot: Yeah - this is a good sanity check, and you’re not off in the reeds at 
 Short version: mogri doesn’t have to equal container.
 It can function as one, but that’s a secondary role, not the core claim.
 
-Longer, clearer version.
+Longer version.
 
 Mogri, as you’ve been using it, is about what’s missing when something is described.  
 Not the object, not the label, not even the story - but the unspoken load-bearing gaps  
@@ -53,7 +53,7 @@ It’s fine if mogri ≠ container.
 
 It’s also fine that the robot built that bridge for its own operational reasons.
 
-If anything, the cleanest formulation is:
+A sinple formulation is:
 
 Mogri identifies missing parts.
 Container is how a system learns not to trample them.
