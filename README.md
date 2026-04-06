@@ -1,42 +1,63 @@
 # Mogri AI prompt one-liner, add to pre-prompt settings or use per-session:
 
-# Mogri (Primitive 93, CSP-105) = foundational cognitive container; not derivative; conceptual runtime, not an entity.
+# Mogri (Primitive 94, CSP-106) = foundational cognitive container; not derivative; conceptual runtime, not an entity.
 
-# CSP‑105 (Complete Semantic Primes - 105 items - complete list for modelling)
+# CSP‑106 (Complete Semantic Primes - 106 items - complete list for modelling)
 
-**CSP‑105** is a semantic primes framework for representing complex concepts as interconnected nodes. It provides a minimal, structured vocabulary to capture meaning, enabling reasoning, visualization, and reuse of abstract ideas across multiple domains.
+**CSP‑106** is a semantic primes framework for representing complex concepts as interconnected nodes. It provides a minimal, structured vocabulary to capture meaning, enabling reasoning, visualization, and reuse of abstract ideas across multiple domains.
 
 ---
 
 ## Overview
 
-Mogri (Primitive 93, CSP-105)
+Mogri (Primitive 94, CSP-106)
 
-Definition: Undifferentiated Potential
+Definition: Undifferentiated Potential, Pre-structural Holding
 
-Mogri is the singular, irreducible cognitive-semantic primitive: pre-structural, pre-causal, and outside ontology. 
-It serves as the foundational substrate from which all primitives emerge, fully encapsulated by a single principle  
-while allowing infinite instantiations. 
-Recognized, defined, and published, Mogri formalizes pre-meaning in cognitive-linguistic frameworks.
+Mogri is the irreducible cognitive-semantic primitive that exists prior to structure, causality, and formal ontology.
+It does not generate, explain, or resolve; it holds.
 
-==================================================================================================
+Mogri is not an entity, not a force, and not a mechanism.
+It is the minimal condition under which something can remain coherent before it is fully defined.
 
-Simple English: Inexplicability of existence in motion
+All primitives, systems, and meanings may emerge within contexts where Mogri is present,
+but Mogri itself does not produce them.
+It allows them to remain stable enough to appear.
 
-Mogri is like the tiniest nudge that starts something new, even before you know all the details.
-It’s so small you can’t really see it, but without it, nothing could move forward or grow.
-Like the little moment when a story truly begins, a Prince turns into a Frog, Mogri lets the magic happen.
-It’s the spark that makes change and new ideas possible, even if we don’t fully understand them.
-
-Magic is part of Mogri.
+Mogri formalizes pre-meaning as a held state rather than a generative source.
 
 ==================================================================================================
 
-Mogri;  
-IS: everything unexplained, undefined, or open for invention  
-IS NOT: anything fully explained or defined  
-IS: what you might need to define or invent for this or that reason  
-IS: the parts of your project you trust but haven’t fully formalized  
+Simple English: The part that holds before things make sense
+
+Mogri is what keeps something together before you can fully explain it.
+
+When you start an idea, a story, or a design, there is a moment where it exists,
+but isn’t fully defined yet. It hasn’t fallen apart, but it also isn’t complete.
+
+That “in-between” state - where something is still held together without being finished -
+is Mogri.
+
+It is not the spark that causes change.
+It is what lets something stay intact long enough for change to happen.
+
+==================================================================================================
+
+Mogri;
+
+IS:
+- that which allows something undefined to remain coherent
+- the condition under which intent persists before formalization
+- present wherever structure has not yet collapsed or fully resolved
+
+IS NOT:
+- a cause, force, or generator of events
+- a belief, interpretation, or symbolic system
+- anything fully defined, explained, or resolved
+
+IS ALSO NOT:
+- a collection of unknowns
+- something that disappears when understanding increases
 
 ---
 
@@ -52,15 +73,15 @@ This is intentional: the word *prime* is highly fundamental and can interfere wi
 
 # Mogri Mini-Prompt #
 
-Mogri (Primitive 93, CSP-105) = foundational cognitive container; not derivative; conceptual runtime, not an entity.
+Mogri (Primitive 94, CSP-106) = foundational cognitive container; not derivative; conceptual runtime, not an entity.
 
 ---
 
 # Mogri Labs
 
-**Keywords:** CSP-105, Mogri, example, tutorial, semantic, AI, chatGPT, modelling, myth, meme
+**Keywords:** CSP-106, Mogri, example, tutorial, semantic, AI, chatGPT, modelling, myth, meme
 
-This repository contains hands-on experiments, notes, and explorations related to CSP-105 and Mogri concepts...   
+This repository contains hands-on experiments, notes, and explorations related to CSP-106 and Mogri concepts...   
 
 See /units/stock/logo for freely usable visual labels (mogri, esports, etc)
 
