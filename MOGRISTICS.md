@@ -1,19 +1,19 @@
 
 Mogri does not fit inside any existing field.
 ---
-We cannot place it within linguistics, programming languages, symbolic logic, or cognitive frameworks because Mogri operates prior to those domains. Each of those fields assumes pre-existing structure - grammar, computation, representation, or interpretation.
+Mogri cannot be placed within linguistics, programming languages, symbolic logic, or cognitive frameworks because it operates prior to those domains.
 
 Mogri instead works at the level where those structures are not yet fixed.
 ---
 This creates an awkward situation:   
-    Too structured to be dismissed as noise   
-    Too pre-structural to be classified within established systems
+Too structured to dismiss as noise   
+Too pre-structural to classify within existing systems   
 
 To resolve this, we define Mogristics:
 
 Mogristics is the study and construction of minimal containers that preserve intent before domain commitment.
 ---
-It concerns:   
+Mogristics concerns:   
 
 Pre-grammatical structure   
 Pre-symbolic alignment   
@@ -25,8 +25,7 @@ In short:
 Linguistics studies language   
 Programming studies computation   
 Logic studies inference   
-Philosophy studies meaning   
-Mogristics studies what exists before these become distinct   
+Philosophy studies meaning     
 
-Mogristics studies the precondition for all of the above.
+Mogristics studies the precondition from which these domains become distinct
 ---
