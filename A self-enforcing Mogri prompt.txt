@@ -1,0 +1,1 @@
+MOGRI=minC(I|A|!D|preE);FORM=LOCK;Δ->REVERT
