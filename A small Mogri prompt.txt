@@ -1,1 +1,27 @@
-MOGRI=CONTAINER(missing-important)
+Tight cores (ascending density):
+
+1. Still readable (67 bytes)
+
+MOGRI=min-container(intent,across-prompts,anti-drift,pre-entity)
+
+2. Trim connectors (59 bytes)
+
+MOGRI=min-container(intent,across,anti-drift,pre-entity)
+
+3. Symbol compression (44 bytes)
+
+MOGRI=minC(intent,across,anti-drift,preE)
+
+4. Higher density, still parseable (39 bytes)
+
+MOGRI=minC(intent,across,antiD,preE)
+
+5. Near-max compression (structured, not cryptic) (39 bytes) RECOMMENDED VERSION
+
+MOGRI=minC(intent|across|antiD|preE)
+
+6. Max density before readability starts to break (26 bytes)
+
+MOGRI=minC(I|A|!D|preE)
+
+(I=intent, A=across, !D=anti-drift, preE=pre-entity)
