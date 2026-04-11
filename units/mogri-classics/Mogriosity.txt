@@ -1,0 +1,32 @@
+Mogriosity
+
+Mogriosity is the degree to which a Mogri holds.
+
+It describes how effectively a minimal container preserves framework intent across prompts without drift or invariant loss.
+
+High mogriosity:
+
+* structure holds
+* intent persists
+* no reinterpretation creep
+
+Low mogriosity:
+
+* drift present
+* invariants weakening or lost
+* structure being reinterpreted or bypassed
+
+Mogriosity is not the container itself.
+It is a property of a system using Mogri.
+
+Mogri remains binary (present / absent).
+Mogriosity is continuous (strong → weak).
+
+Use:
+
+“This session has high mogriosity.”
+“Mogriosity dropped after turn 12.”
+“That rewrite reduced mogriosity.”
+
+Mogri defines the container.
+Mogriosity describes how well it holds.
