@@ -1,0 +1,23 @@
+Mogristence
+
+Mogristence is the durability of Mogri over time and across transformations.
+
+It describes how well a container continues to hold under pressure, length, or reinterpretation.
+
+High mogristence:
+
+* structure persists across many turns
+* intent survives rewrites and expansions
+* invariants remain intact under load
+
+Low mogristence:
+
+* structure degrades over time
+* intent weakens with each transformation
+* invariants erode under pressure
+
+Mogristence does not define the container.
+It describes how long it holds.
+
+Mogri defines the container.
+Mogristence describes its persistence.
