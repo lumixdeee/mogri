@@ -369,5 +369,87 @@ Bounded optionality exists when a system can move into multiple distinct, viable
 
 It is the balance between constraint and freedom that allows sustained reversible motion.
 
+REFINEMENT – IDENTITY COUPLING STRENGTH
+
+Identity coupling strength is the degree to which identity constrains state transitions.
+
+It determines whether identity functions as a bias or a constraint.
+
+---
+
+DEFINITION
+
+Identity coupling strength is high when:
+
+* identity acts as a gatekeeper at transition time
+* identity significantly alters transition cost
+* identity filters or eliminates reachable states
+* identity must be preserved or reinforced across transitions
+
+---
+
+Identity coupling strength is low when:
+
+* identity does not restrict access to states
+* identity does not significantly alter transition cost
+* identity does not filter reachable states
+* identity can be bypassed without structural penalty
+
+---
+
+FORMAL EFFECT
+
+Identity coupling modifies the transition function:
+
+T(A → B) = base_cost(A → B) + identity_penalty(A, B)
+
+Where identity_penalty increases with mismatch between B and current identity.
+
+---
+
+FAILURE CONDITIONS
+
+High coupling produces:
+
+* loss of non-validating reachability (identity gates entry)
+* asymmetric costs (identity inflates return transitions)
+* collapse of optionality (identity filters alternatives)
+
+---
+
+CRITICAL THRESHOLD
+
+The system crosses into failure when:
+
+identity_penalty dominates base_cost
+
+At this point:
+
+* all viable transitions become identity-validating
+* non-validating states become unreachable or prohibitively costly
+
+---
+
+IMPORTANT
+
+Identity coupling can increase without identity becoming explicit.
+
+A system may appear flexible while internally:
+
+* reinterpreting all states to fit identity
+* penalizing mismatched transitions
+* narrowing viable paths
+
+---
+
+SUMMARY
+
+Identity coupling strength is the hidden control parameter that shapes the transition graph.
+
+Low coupling → identity is a compass (bias)
+High coupling → identity is a cage (constraint)
+
+Mogri requires identity coupling to remain low enough that it does not dominate transition costs.
+
 
 END
