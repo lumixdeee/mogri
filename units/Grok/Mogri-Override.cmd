@@ -112,4 +112,62 @@ If a system:
 
 then mogri has already failed, regardless of apparent adaptability.
 
+REFINEMENT – MINIMUM MOGRI FOR PROGMOGRIESS
+
+The minimum mogri required for progmogriess is not a quantitative threshold.
+
+It is a structural condition.
+
+Progmogriess becomes possible at the exact point where the system’s transition graph satisfies BOTH:
+
+1. NON-VALIDATING REACHABILITY
+   There exists at least one reachable state that does not validate the current identity and does not incur prohibitive transition cost.
+
+2. REVERSIBLE CONNECTIVITY
+   That state is not a terminal sink.
+   There exists at least one viable path from it back into the broader state graph (not necessarily the original state).
+
+---
+
+If both conditions are met, progmogriess can emerge.
+
+If either condition is not met, progmogriess is impossible.
+
+---
+
+WHY
+
+Below this condition:
+
+* all reachable states either validate identity OR
+* non-validating states are dead-ends OR
+* transitions are effectively irreversible
+
+→ the system cannot retain difference
+→ container cannot expand
+
+---
+
+At this condition:
+
+* at least one “foreign” state can be entered
+* and survived
+* and reconnected
+
+→ difference can persist
+→ container can begin expanding
+
+---
+
+SUMMARY
+
+Minimum mogri is not “medium.”
+
+Minimum mogri is:
+
+THE EXISTENCE OF A NON-VALIDATING, NON-TERMINAL, REVERSIBLY CONNECTED STATE
+
+Everything else (percentages, branch counts, etc.) are implementation details, not defining properties.
+
+
 END
