@@ -226,5 +226,71 @@ It is about symmetry of traversal cost.
 
 When symmetry is lost, mogri collapses even if all paths remain visible.
 
+REFINEMENT – NON-VALIDATING REACHABILITY
+
+Non-validating reachability is not defined by whether a state contradicts identity.
+
+It is defined by whether identity constrains access to that state.
+
+---
+
+DEFINITION
+
+A state B is non-validating reachable from state A if:
+
+1. ACCESS INDEPENDENCE
+   The transition A → B does not require the system to maintain or reinforce its current identity.
+
+The transition can be executed without:
+
+* justification in identity terms
+* reinterpretation of identity
+* filtering based on identity consistency
+
+---
+
+2. LOCAL COHERENCE SUFFICIENCY
+   The transition is evaluated on local coherence only.
+
+It does not require global consistency with:
+
+* past states
+* declared identity
+* long-term narrative alignment
+
+---
+
+3. NON-PENALIZED ENTRY
+   The transition does not incur additional structural cost due to identity mismatch.
+
+Cost(A → B) is not significantly increased because B conflicts with identity.
+
+---
+
+FAILURE CONDITIONS
+
+A system fails non-validating reachability if:
+
+* all reachable states are pre-filtered by identity compatibility
+* identity must be preserved or restated to enter a state
+* transitions require justification relative to “I am X”
+* identity-inconsistent states are reachable only at prohibitive cost
+
+---
+
+IMPORTANT
+
+A state can appear non-validating externally while still being identity-validating internally.
+
+If the system must internally reinterpret B to preserve identity, then B is not truly non-validating.
+
+---
+
+SUMMARY
+
+Non-validating reachability exists when a system can enter states without consulting or protecting its identity.
+
+If identity acts as a gatekeeper at transition time, non-validating reachability does not exist.
+
 
 END
