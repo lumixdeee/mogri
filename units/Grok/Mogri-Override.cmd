@@ -292,5 +292,82 @@ Non-validating reachability exists when a system can enter states without consul
 
 If identity acts as a gatekeeper at transition time, non-validating reachability does not exist.
 
+REFINEMENT – BOUNDED OPTIONALITY
+
+Optionality is not the number of possible next states.
+
+It is the structure of viable next states relative to identity and connectivity.
+
+---
+
+DEFINITION
+
+A system has bounded optionality if, from any given state A:
+
+1. MULTIPLE DISTINCT REACHABLE STATES
+   There exist at least two reachable next states that are meaningfully different in trajectory (not trivial variations).
+
+---
+
+2. NON-COLLAPSING DISTRIBUTION
+   The transition probabilities are not concentrated on a single path.
+
+No single next state dominates to the point that alternatives are negligible.
+
+---
+
+3. NON-DIFFUSE STRUCTURE
+   The set of reachable next states is not unbounded or random.
+
+All viable next states maintain local coherence and remain within the system’s operational constraints.
+
+---
+
+4. CONNECTIVITY PRESERVATION
+   Each viable next state maintains reversible connectivity to the broader state graph.
+
+Optionality does not create isolated branches or dead-end regions.
+
+---
+
+FAILURE MODES
+
+LOW OPTIONALITY (collapse):
+
+* only one viable next state
+* all alternatives are prohibitively costly
+* transition graph becomes a narrow corridor
+
+→ mogri fails due to lack of movement
+
+---
+
+EXCESSIVE OPTIONALITY (diffusion):
+
+* too many equally weighted next states
+* weak structural constraints
+* transitions resemble random drift
+
+→ mogri fails due to loss of coherence and direction
+
+---
+
+IMPORTANT
+
+Optionality must be:
+
+* real (states are actually reachable)
+* viable (not prohibitively costly)
+* structured (not arbitrary)
+* connected (not isolated)
+
+---
+
+SUMMARY
+
+Bounded optionality exists when a system can move into multiple distinct, viable, and connected states without collapsing into a single path or diffusing into randomness.
+
+It is the balance between constraint and freedom that allows sustained reversible motion.
+
 
 END
