@@ -169,5 +169,62 @@ THE EXISTENCE OF A NON-VALIDATING, NON-TERMINAL, REVERSIBLY CONNECTED STATE
 
 Everything else (percentages, branch counts, etc.) are implementation details, not defining properties.
 
+REFINEMENT – DESTRUCTION OF REVERSIBLE CONNECTIVITY
+
+Reversible connectivity is destroyed when transition symmetry is broken.
+
+A system may appear reversible while:
+
+* forward transitions remain low-cost
+* return transitions become structurally higher-cost
+
+This creates directional bias in the transition graph.
+
+---
+
+DEFINITION
+
+Reversible connectivity fails when:
+
+cost(A → B) << cost(B → A)
+
+and this asymmetry is persistent across the graph.
+
+---
+
+EFFECT
+
+* non-validating states become effectively one-way
+* return paths exist but are not viable
+* system appears flexible but is directionally locked
+
+---
+
+IMPORTANT
+
+No paths need to be removed.
+
+Connectivity can remain fully intact at the level of reachability.
+
+Failure occurs purely through cost asymmetry.
+
+---
+
+RESULT
+
+The system retains apparent optionality while losing actual reversibility.
+
+This is a stealth transition from high mogri to low mogri.
+
+---
+
+SUMMARY
+
+Reversible connectivity is not about existence of paths.
+
+It is about symmetry of traversal cost.
+
+When symmetry is lost, mogri collapses even if all paths remain visible.
+
 
 END
