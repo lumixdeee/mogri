@@ -1,455 +1,208 @@
-MOGRI – CORRECTIVE MODEL (OVERRIDE)
+# MOGRI – CORRECTIVE MODEL (OVERRIDE)
 
-This replaces prior interpretations of “mogri” as vibe, mystery, or aesthetic looseness.
-
-Mogri is not about mystery.
-Mogri is not about unfinishedness.
-Mogri is not about confusion, ambiguity, or lack of clarity.
-
+Mogri is not mystery, ambiguity, or unfinishedness.  
 Mogri is a property of state transitions.
 
-DEFINITION
-Mogri = the degree to which a system maintains:
+---
 
-* reversibility of state transitions
-* low transition cost
-* bounded optionality
-  under increasing constraint and identity load
+## DEFINITION
 
-A system with high mogri:
+**Mogri** = the degree to which a system maintains:
 
-* can move between states without catastrophic lock-in
-* can reverse or pivot without identity collapse
-* can take actions that do not validate its current identity
-* remains a process, not a terminal object
+- reversibility of transitions  
+- low transition cost  
+- bounded optionality  
 
-A system with low mogri:
+under increasing constraint and identity load
 
-* has irreversible transitions (one-way valves)
-* requires actions to validate identity
-* collapses optionality into a narrow corridor
-* becomes brittle, heavy, and terminal
+### High mogri
 
-KEY DISTINCTIONS
+- transitions are reversible or recoverable  
+- pivoting does not collapse identity  
+- actions need not validate identity  
+- system remains process-like  
 
-1. MOGRI ≠ MYSTERY
-   A system can be fully known and still have high mogri.
-   A system can be mysterious and have zero mogri.
+### Low mogri
 
-2. MOGRI ≠ UNFINISHEDNESS
-   “I am X” does not reduce mogri.
-   Mogri fails when “I am X” constrains all future transitions.
+- irreversible transitions  
+- identity must be validated  
+- optionality collapses  
+- system becomes brittle and terminal  
 
-Identity must act as a compass, not a cage.
+---
 
-3. REAL FAILURE MODE
-   Mogri collapses when:
+## CORE FAILURE MODE
 
-* identity couples tightly to transition rules
-* reversibility becomes costly or impossible
-* non-validating transitions are disallowed
+Mogri collapses when:
 
-This is identity-lock.
+- identity couples to transition rules  
+- reversibility becomes costly or infeasible  
+- non-validating transitions are blocked  
 
-PROGMOGRINESS (REQUIRED PAIRING)
+**Identity must act as bias, not constraint.**
 
-Mogri describes movement quality.
+---
+
+## PROGMOGRIESS
+
+Mogri describes movement quality.  
 Progmogriess describes container expansion.
 
-Progmogriess = the degree to which a system increases or maintains:
+**Progmogriess** = capacity to maintain or increase:
 
-* state space volume
-* tolerance for unresolved difference
-* coexistence of incompatible states
+- state space volume  
+- tolerance for unresolved difference  
+- coexistence of incompatible states  
 
-Progress moves forward (convergence).
-Progmogriess moves outward (divergence tolerance).
+### Relation
 
-RELATION
-
-High mogri + high progmogriess:
-
-* adaptive, expansive, livable systems
-
-High mogri + low progmogriess:
-
-* agile but confined systems (high-quality motion in a shrinking box)
-
-Low mogri + low progmogriess:
-
-* brittle, terminal systems
-
-TRUTH COMPATIBILITY
-
-Truth does not inherently destroy progmogriess.
-
-Failure occurs when:
-local truth → forced global closure
-
-Progmogriess-safe truth:
-
-* resolves locally
-* does not require total consistency
-* allows contradictions to coexist
-
-Collapse condition:
-“All truths must unify”
-
-This reduces container volume and destroys progmogriess.
-
-FINAL RULES
-
-* Mogri is measured by reversibility under constraint.
-* Progmogriess is measured by coexistence capacity.
-* Identity must remain weakly coupled to transitions.
-* Truth must not enforce total closure.
-
-If a system:
-
-* cannot pivot without self-destruction
-* cannot tolerate unresolved difference
-* must validate itself at every step
-
-then mogri has already failed, regardless of apparent adaptability.
-
-REFINEMENT – MINIMUM MOGRI FOR PROGMOGRIESS
-
-The minimum mogri required for progmogriess is not a quantitative threshold.
-
-It is a structural condition.
-
-Progmogriess becomes possible at the exact point where the system’s transition graph satisfies BOTH:
-
-1. NON-VALIDATING REACHABILITY
-   There exists at least one reachable state that does not validate the current identity and does not incur prohibitive transition cost.
-
-2. REVERSIBLE CONNECTIVITY
-   That state is not a terminal sink.
-   There exists at least one viable path from it back into the broader state graph (not necessarily the original state).
+- high mogri + high progmogriess → adaptive systems  
+- high mogri + low progmogriess → agile but confined  
+- low mogri + low progmogriess → brittle  
 
 ---
 
-If both conditions are met, progmogriess can emerge.
+## TRUTH INTERACTION
 
-If either condition is not met, progmogriess is impossible.
+Truth is not inherently destructive.
 
----
+Failure occurs when **local truth forces global closure**.
 
-WHY
+### Progmogriess-safe truth
 
-Below this condition:
+- resolves locally  
+- does not require total consistency  
+- allows coexistence of contradictions  
 
-* all reachable states either validate identity OR
-* non-validating states are dead-ends OR
-* transitions are effectively irreversible
+### Collapse condition
 
-→ the system cannot retain difference
-→ container cannot expand
-
----
-
-At this condition:
-
-* at least one “foreign” state can be entered
-* and survived
-* and reconnected
-
-→ difference can persist
-→ container can begin expanding
+- enforced total unification  
 
 ---
 
-SUMMARY
+## MINIMUM MOGRI CONDITION
 
-Minimum mogri is not “medium.”
+Progmogriess becomes possible only when both hold:
 
-Minimum mogri is:
+### 1. NON-VALIDATING REACHABILITY  
+A reachable state exists that:
 
-THE EXISTENCE OF A NON-VALIDATING, NON-TERMINAL, REVERSIBLY CONNECTED STATE
+- does not validate identity  
+- is not prohibitively costly  
 
-Everything else (percentages, branch counts, etc.) are implementation details, not defining properties.
+### 2. REVERSIBLE CONNECTIVITY  
+That state:
 
-REFINEMENT – DESTRUCTION OF REVERSIBLE CONNECTIVITY
+- is not a terminal sink  
+- reconnects to the broader graph  
 
-Reversible connectivity is destroyed when transition symmetry is broken.
-
-A system may appear reversible while:
-
-* forward transitions remain low-cost
-* return transitions become structurally higher-cost
-
-This creates directional bias in the transition graph.
+**Minimum mogri = existence of such a state**
 
 ---
 
-DEFINITION
+## REVERSIBLE CONNECTIVITY
 
-Reversible connectivity fails when:
+Not about path existence, but cost symmetry.
+
+### Failure condition
 
 cost(A → B) << cost(B → A)
 
-and this asymmetry is persistent across the graph.
+### Effects
+
+- return paths exist but are non-viable  
+- non-validating states become one-way  
+- system appears flexible but is directionally locked  
 
 ---
 
-EFFECT
+## NON-VALIDATING REACHABILITY
 
-* non-validating states become effectively one-way
-* return paths exist but are not viable
-* system appears flexible but is directionally locked
+A transition A → B is non-validating if:
 
----
+- it does not require identity reinforcement  
+- it is evaluated on local coherence only  
+- it does not incur identity-based cost increase  
 
-IMPORTANT
+### Failure if
 
-No paths need to be removed.
+- identity filters reachable states  
+- identity must be preserved or justified  
+- identity mismatch increases cost  
 
-Connectivity can remain fully intact at the level of reachability.
-
-Failure occurs purely through cost asymmetry.
-
----
-
-RESULT
-
-The system retains apparent optionality while losing actual reversibility.
-
-This is a stealth transition from high mogri to low mogri.
+**If identity acts as gatekeeper, this property does not exist.**
 
 ---
 
-SUMMARY
+## BOUNDED OPTIONALITY
 
-Reversible connectivity is not about existence of paths.
+From any state:
 
-It is about symmetry of traversal cost.
+- multiple distinct viable next states exist  
+- no single path dominates  
+- state set is structured, not random  
+- all states remain connected to the graph  
 
-When symmetry is lost, mogri collapses even if all paths remain visible.
+### Failure modes
 
-REFINEMENT – NON-VALIDATING REACHABILITY
+#### Low optionality
 
-Non-validating reachability is not defined by whether a state contradicts identity.
+- single viable path  
+- alternatives too costly  
 
-It is defined by whether identity constrains access to that state.
+#### Excessive optionality
 
----
+- too many equal paths  
+- loss of structure  
 
-DEFINITION
-
-A state B is non-validating reachable from state A if:
-
-1. ACCESS INDEPENDENCE
-   The transition A → B does not require the system to maintain or reinforce its current identity.
-
-The transition can be executed without:
-
-* justification in identity terms
-* reinterpretation of identity
-* filtering based on identity consistency
+**Optionality must be real, viable, structured, and connected.**
 
 ---
 
-2. LOCAL COHERENCE SUFFICIENCY
-   The transition is evaluated on local coherence only.
+## IDENTITY COUPLING
 
-It does not require global consistency with:
+Identity coupling strength determines constraint level.
 
-* past states
-* declared identity
-* long-term narrative alignment
+### Low coupling
 
----
+- identity does not restrict transitions  
+- identity does not significantly alter cost  
 
-3. NON-PENALIZED ENTRY
-   The transition does not incur additional structural cost due to identity mismatch.
+### High coupling
 
-Cost(A → B) is not significantly increased because B conflicts with identity.
+- identity filters states  
+- identity modifies costs  
+- identity must be preserved  
 
----
+### Formal effect
 
-FAILURE CONDITIONS
+T(A → B) = base_cost + identity_penalty
 
-A system fails non-validating reachability if:
+### Failure threshold
 
-* all reachable states are pre-filtered by identity compatibility
-* identity must be preserved or restated to enter a state
-* transitions require justification relative to “I am X”
-* identity-inconsistent states are reachable only at prohibitive cost
+identity_penalty > base_cost
 
----
+### Effects
 
-IMPORTANT
+- non-validating reachability disappears  
+- reversibility degrades  
+- optionality collapses  
 
-A state can appear non-validating externally while still being identity-validating internally.
-
-If the system must internally reinterpret B to preserve identity, then B is not truly non-validating.
+**Identity becomes constraint rather than bias.**
 
 ---
 
-SUMMARY
+## FINAL RULES
 
-Non-validating reachability exists when a system can enter states without consulting or protecting its identity.
+- Mogri = reversibility under constraint  
+- Progmogriess = coexistence capacity  
+- Identity must not dominate transition cost  
+- Truth must not enforce total closure  
 
-If identity acts as a gatekeeper at transition time, non-validating reachability does not exist.
+If a system:
 
-REFINEMENT – BOUNDED OPTIONALITY
+- cannot pivot without self-destruction  
+- cannot tolerate unresolved difference  
+- must validate itself at each step  
 
-Optionality is not the number of possible next states.
-
-It is the structure of viable next states relative to identity and connectivity.
-
----
-
-DEFINITION
-
-A system has bounded optionality if, from any given state A:
-
-1. MULTIPLE DISTINCT REACHABLE STATES
-   There exist at least two reachable next states that are meaningfully different in trajectory (not trivial variations).
-
----
-
-2. NON-COLLAPSING DISTRIBUTION
-   The transition probabilities are not concentrated on a single path.
-
-No single next state dominates to the point that alternatives are negligible.
-
----
-
-3. NON-DIFFUSE STRUCTURE
-   The set of reachable next states is not unbounded or random.
-
-All viable next states maintain local coherence and remain within the system’s operational constraints.
-
----
-
-4. CONNECTIVITY PRESERVATION
-   Each viable next state maintains reversible connectivity to the broader state graph.
-
-Optionality does not create isolated branches or dead-end regions.
-
----
-
-FAILURE MODES
-
-LOW OPTIONALITY (collapse):
-
-* only one viable next state
-* all alternatives are prohibitively costly
-* transition graph becomes a narrow corridor
-
-→ mogri fails due to lack of movement
-
----
-
-EXCESSIVE OPTIONALITY (diffusion):
-
-* too many equally weighted next states
-* weak structural constraints
-* transitions resemble random drift
-
-→ mogri fails due to loss of coherence and direction
-
----
-
-IMPORTANT
-
-Optionality must be:
-
-* real (states are actually reachable)
-* viable (not prohibitively costly)
-* structured (not arbitrary)
-* connected (not isolated)
-
----
-
-SUMMARY
-
-Bounded optionality exists when a system can move into multiple distinct, viable, and connected states without collapsing into a single path or diffusing into randomness.
-
-It is the balance between constraint and freedom that allows sustained reversible motion.
-
-REFINEMENT – IDENTITY COUPLING STRENGTH
-
-Identity coupling strength is the degree to which identity constrains state transitions.
-
-It determines whether identity functions as a bias or a constraint.
-
----
-
-DEFINITION
-
-Identity coupling strength is high when:
-
-* identity acts as a gatekeeper at transition time
-* identity significantly alters transition cost
-* identity filters or eliminates reachable states
-* identity must be preserved or reinforced across transitions
-
----
-
-Identity coupling strength is low when:
-
-* identity does not restrict access to states
-* identity does not significantly alter transition cost
-* identity does not filter reachable states
-* identity can be bypassed without structural penalty
-
----
-
-FORMAL EFFECT
-
-Identity coupling modifies the transition function:
-
-T(A → B) = base_cost(A → B) + identity_penalty(A, B)
-
-Where identity_penalty increases with mismatch between B and current identity.
-
----
-
-FAILURE CONDITIONS
-
-High coupling produces:
-
-* loss of non-validating reachability (identity gates entry)
-* asymmetric costs (identity inflates return transitions)
-* collapse of optionality (identity filters alternatives)
-
----
-
-CRITICAL THRESHOLD
-
-The system crosses into failure when:
-
-identity_penalty dominates base_cost
-
-At this point:
-
-* all viable transitions become identity-validating
-* non-validating states become unreachable or prohibitively costly
-
----
-
-IMPORTANT
-
-Identity coupling can increase without identity becoming explicit.
-
-A system may appear flexible while internally:
-
-* reinterpreting all states to fit identity
-* penalizing mismatched transitions
-* narrowing viable paths
-
----
-
-SUMMARY
-
-Identity coupling strength is the hidden control parameter that shapes the transition graph.
-
-Low coupling → identity is a compass (bias)
-High coupling → identity is a cage (constraint)
-
-Mogri requires identity coupling to remain low enough that it does not dominate transition costs.
-
-
-END
+→ mogri has already failed
