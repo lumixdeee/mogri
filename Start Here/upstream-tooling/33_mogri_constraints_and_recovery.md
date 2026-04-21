@@ -123,9 +123,9 @@ Long term stability depends on the underlying system.
 
 ## relation
 
-30 defines runtime context.
-31 adjusts selection.
-32 defines supporting functions.
-33 detects failure and restores movement.
+30 defines runtime context.   
+31 adjusts selection.   
+32 defines supporting functions.   
+33 detects failure and restores movement.   
 
 ---
