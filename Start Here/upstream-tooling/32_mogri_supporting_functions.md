@@ -132,9 +132,9 @@ They provide practical approximations sufficient for runtime use.
 
 ## relation
 
-30 defines runtime context.
-31 applies adjustment at selection.
-32 defines the functions used.
-33 defines constraint detection and recovery.
+30 defines runtime context.   
+31 applies adjustment at selection.   
+32 defines the functions used.   
+33 defines constraint detection and recovery.   
 
 ---
