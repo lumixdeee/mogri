@@ -9,14 +9,14 @@ It applies mogri during operation.
 
 ## position
 
-00 embed mogri
-10 machine spec
-20 evaluation
-
-30 runtime
-31 adjusting next step selection
-32 supporting functions
-33 constraints and recovery
+00 embed mogri   
+10 machine spec   
+20 evaluation   
+   
+30 runtime   
+31 adjusting next step selection   
+32 supporting functions   
+33 constraints and recovery   
 
 This is the point where mogri moves from description into use.
 
@@ -52,10 +52,10 @@ This layer exists to prevent that.
 
 The runtime layer maintains:
 
-* reversibility
-* non validating reachability
-* bounded optionality
-* connectivity
+* reversibility   
+* non validating reachability   
+* bounded optionality   
+* connectivity   
 
 These properties are defined earlier.
 
