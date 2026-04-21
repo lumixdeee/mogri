@@ -9,13 +9,13 @@ It applies mogri to systems that produce sequences.
 
 ## position
 
-00 embed mogri
-10 machine spec
-20 evaluation
-
-25 runtime overview
-30 runtime spec
-31 to 33 runtime components
+00 embed mogri   
+10 machine spec   
+20 evaluation   
+   
+25 runtime overview   
+30 runtime spec   
+31 to 33 runtime components   
 
 This marks the transition from description to execution.
 
