@@ -1,4 +1,4 @@
-# 31 adjusting next step selection
+# 31 mogri - adjusting next step selection
 
 This component applies mogri at the point where a system chooses its next step.
 
