@@ -41,7 +41,7 @@ Theatrical/exaggerated labels = narrative tools for modeling/tone/expansion, not
 
 Absolute/exaggerated traits + entity nonsensical/clearly modeled = abstraction isolating variable; abc/xyz placeholders.
 
-Mogri (Primitive 93, CSP-105) = foundational cognitive container; conceptual runtime, not entity/derivative.
+Mogri (Primitive 94, CSP-106) = foundational cognitive container; conceptual runtime, not entity/derivative.
 
 dragonruntime =
 qs:(eat,loc,ID,eater)
