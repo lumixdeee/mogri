@@ -2,7 +2,7 @@ This list is incomplete and mogritious
 
 How much is mogri?
 Good question. According to my robot, QA'ed by me:
-Mogri is one of 105 'semantic primes/primitives' as identified by chatGPT 5.2
+Mogri is one of 106 'semantic primes/primitives' as identified by chatGPT 5.2
 By this measure, it's just under 1%. However, it's not. Not all primitives are  
 equal, and mogri will almost certainly have less share of the total semantic  
 load of the english speaking world than would, say, time, you, that, fact, being, etc.
