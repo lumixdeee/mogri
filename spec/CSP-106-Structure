@@ -41,8 +41,8 @@ Mogri is a **hypothetical container for “thing”**, containable or not, roote
 - **Without Mogri:** Responses fragment, lose focus  
 - **With Mogri:** AI interprets abstract inputs as contained, consistent concepts  
 
-### Example 3: Semantic Anchoring in CSP-105 Lists
-- **Task:** Organize CSP-105 semantic primitives into functional clusters  
+### Example 3: Semantic Anchoring in CSP-106 Lists
+- **Task:** Organize CSP-106 semantic primitives into functional clusters  
 - **With Mogri:** Acts as a **container/placeholder**, simplifying referencing and cross-linking  
 
 ---
@@ -56,7 +56,7 @@ Mogri is a **hypothetical container for “thing”**, containable or not, roote
 
 **Behavioral Notes:**  
 - Promotes **predictable AI behavior**  
-- Works as **conceptual scaffolding** for other CSP-105 assets  
+- Works as **conceptual scaffolding** for other CSP-106 assets  
 - Can be **nested or referenced** in complex prompt structures  
 
 ---
@@ -75,7 +75,7 @@ Mogri is a **hypothetical container for “thing”**, containable or not, roote
 
 ## 6. Asset Management
 
-- **Versioning:** Every CSP-105 list and Mogri reference should be numbered  
+- **Versioning:** Every CSP-106 list and Mogri reference should be numbered  
 - **Indexing:** Clear cross-links between Mogri and other semantic primitives  
 - **Examples:** Include repeatable “before / after” interactions for clarity  
 - **Documentation:** Maintain concise descriptions of each asset’s function and constraints  
