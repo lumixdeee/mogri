@@ -1,0 +1,143 @@
+Mogri for Archaeology
+
+A small vocabulary for the unknowns that matter
+
+Archaeology begins with material things: soil, bone, stone, ash, seed, wall, tooth, stain, cut mark, tag, tray. The work is physical before it is theoretical. Someone has to notice the edge of the pit, keep the context intact, argue over the fill, and carry the find back without turning it into a story too soon.
+
+Most sciences have missing information. Archaeology has missing information with consequences. A posthole is not only a hole. A skull fragment is not only bone. A burnt layer is not only burning. A pit is not only absence with edges. Each may carry a question that changes the reading of a site.
+
+That is where mogri is useful.
+
+Mogri means the unknowns that matter.
+
+Not every unknown is mogri. We never know everything about a site. The vanished timber that decides whether a building had a roof may be mogri. The missing entrance route may be mogri. The lost relation between a bone scatter and a feast may be mogri. The hidden reason a grave was reopened may be mogri.
+
+Mogri is the part still unknown that would change the interpretation if it became known.
+
+Demogrify
+
+Demogrify means to know, reveal, expose, or resolve some or all of the unknowns that matter.
+
+A residue test can demogrify a vessel. Microwear can demogrify a tool edge. Refitting can demogrify a knapping sequence. Isotopes can demogrify movement. A posthole row can demogrify a vanished wall, fence, roof, screen, or gate. Radiocarbon dating can demogrify sequence, though not usually meaning by itself.
+
+Demogrification is often partial.
+
+If modified skull fragments are found, body handling has been partly demogrified. That does not automatically demogrify war, ancestor practice, trophy-taking, mourning, display, fear, feast, punishment, or emergency use. One unknown has moved. Others remain.
+
+Mogrification
+
+Mogrification is the making, preserving, restoring, or recognition of unknowns that matter.
+
+Sometimes mogrification is intentional. People hide caches. People seal graves. People cover entrances. People mask supports, routes, stores, preparation areas, traps, or rites. A stage crew hides the wires because the flight matters and seeing the wires damages the flight. In the same way, an ancient group may hide a mechanism because access, status, danger, memory, or power depends on it not being available to everyone.
+
+Sometimes mogrification is accidental. Timber rots. Roofs vanish. Soil moves. Later people dig. Animals gnaw. Water enters. Heat cracks bone. A trench from another century loses context. The ancient actors did not always hide the answer. The world hid it for them.
+
+There is also academic mogrification.
+
+This is the act of removing certainty that evidence has not earned. It is what we do when a label has become too comfortable. A pit called ritual may need to be mogrified again if storage, drainage, reuse, burial, trapping, or later fill remain live. A wall called defensive may need to be mogrified if it may also be a boundary, terrace, flood control, animal control, display front, or memory line.
+
+Academic mogrification does not make the past vague. It puts the weight back where the evidence can hold it.
+
+False demogrification
+
+False demogrification happens when a story behaves as though the unknowns that matter have been resolved before the evidence has resolved them.
+
+"This was ritual" can become false demogrification if it is used to end the question.
+
+"This was practical" can become false demogrification if it is used to exclude symbol, memory, status, or death.
+
+"No mass grave" can become false demogrification if it is used to rule out threat, fear, conflict management, or rare violence.
+
+"Animal imagery" can become false demogrification if it is treated as a menu.
+
+"Storage not found" can become false demogrification if perishable containers, off-site stores, disturbed deposits, or wrong expected signals remain possible.
+
+Mogri vocabulary gives archaeologists a handle for something they already do with care. It does not replace taphonomy, formation processes, equifinality, stratigraphy, residue analysis, or confidence ranking. It gathers one repeated moment into a name: the moment when the trace is real, the label is tempting, and the unknowns still matter.
+
+A field method
+
+Start with the object. Say what is physically there.
+
+Then name the mogri. What unknowns would change the reading?
+
+Then ask how the mogri formed. Was something hidden by ancient actors? Lost by decay? Moved by animals? Disturbed by later work? Added by modern category habits?
+
+Then demogrify only what the evidence resolves.
+
+Then rank the remaining possibilities without pretending they are equal.
+
+Then state what would demogrify the next unknown.
+
+A worked example
+
+A stone-lined pit appears in a pre-literate site.
+
+The pit is known. Its edge, fill, depth, relation to floors, finds, and sequence may be partly known.
+
+The mogri might include its use, its original contents, whether it was opened more than once, whether it held food, water, bone, a body, tools, waste, animal bait, or nothing at the end of its life.
+
+A demogrification event might be residue showing grain. Another might be insect evidence. Another might be refitted stones showing deliberate sealing. Another might be micromorphology showing standing water.
+
+Each event reduces some mogri, but not all.
+
+False demogrification would be calling it "a ritual pit" or "a storage pit" and then letting that name eat the rest of the evidence.
+
+Gobekli Tepe as an example
+
+Gobekli Tepe is a good case because its evidence has high mogri load.
+
+The T-pillars are stone bodies, architectural members, image carriers, memory anchors, social presences, and possible parts of movement and attention systems. The enclosures are ritual spaces, gathering spaces, food-processing worlds, death-practice contexts, and perhaps drive architecture. The animal bones are food, feast trace, hunting evidence, seasonal signal, fill material, and sometimes symbol by association. The human fragments demogrify body handling, but they do not demogrify every reason for body handling.
+
+A mogri-aware reading does not ask only whether the site was a temple, settlement, hunting centre, or defensive system.
+
+It asks which unknowns matter enough to change the rank.
+
+Current rank may place ceremonial gathering, feasting, death practice, wild animal imagery, and regional symbolic networks at the centre. Hunt and feast drive architecture may sit as a strong functional layer. Fixed-wealth threat management may sit as a secondary layer. Delay-and-drop tactics, roof failure, pantry lure, predator bait, or rare emergency conspecific consumption remain speculative unless future evidence demogrifies them.
+
+That is not weakness. That is good handling.
+
+Why the word helps
+
+The past often reaches the public in finished shapes: temple, tomb, king, sacrifice, village, shrine, invasion, cult. Those words are useful only while they remain honest. When they cover the unknowns that matter, they become too heavy.
+
+A museum label could say:
+
+"This feature may have had several roles. Its food residues are known, its later reopening is known, but its social meaning remains mogri."
+
+That is more honest than mystery talk and more human than pretending the label has solved the place.
+
+For archaeologists, the word earns its keep when it saves a paragraph without deleting the caution.
+
+Instead of writing:
+
+"This ambiguous feature has multiple possible roles and several important unknowns remain unresolved, some due to preservation, some due to possible concealment, and some due to interpretive overconfidence, so the present label should not be treated as final."
+
+we can write:
+
+"This feature still has high mogri load. Do not falsely demogrify it."
+
+Short glossary
+
+Mogri: the unknowns that matter.
+
+Mogrification: the making, preserving, restoring, or recognition of unknowns that matter. This may be intentional, accidental, or academic.
+
+Mogrify: to produce, preserve, restore, or recognize mogri. In a narrower operational sense, to occult knowns that matter.
+
+Demogrify: to know, reveal, expose, or resolve some or all of the unknowns that matter.
+
+Partial demogrification: evidence resolves one important unknown while others remain.
+
+False demogrification: a claim acts as though unknowns that matter are resolved when they are not.
+
+Remogrify: to restore mogri to a claim after critique, new evidence, or removal of unsupported certainty.
+
+Mogri load: the amount and importance of unresolved unknowns carried by a feature, object, deposit, or model.
+
+Mogri lock: a rule that stops one known role from swallowing other live roles.
+
+Final note
+
+Mogri is not a substitute for evidence. It is a reminder that evidence and interpretation do not arrive in the same bucket.
+
+Archaeology demogrifies the past slowly. Mogri names what still matters while we wait, test, argue, return to the trench, and look again.
