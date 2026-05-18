@@ -1,0 +1,155 @@
+False Demogrification in Archaeology
+
+When a label arrives before the evidence is ready
+
+False demogrification happens when the unknowns that matter are treated as known before the evidence has earned that state.
+
+This is not a rare mistake. It is one of the ordinary hazards of archaeology. The field works from traces, and traces invite names. A pit becomes storage. A wall becomes defence. A skull becomes ritual. A bone scatter becomes feast waste. A burnt layer becomes destruction. Sometimes the label is right. Sometimes it is useful but incomplete. Sometimes it gets comfortable too early and starts doing the thinking.
+
+That is false demogrification.
+
+The danger is not that archaeologists are careless. The danger is that the work is difficult in exactly this way. The past leaves matter behind, not explanations. Wood vanishes. Skin vanishes. Speech vanishes. Paths vanish. Food vanishes. Motives vanish. Later activity cuts through earlier activity. Water, roots, burrowing animals, erosion, heat, pressure, and modern excavation all move the beast before the final reader sees it.
+
+False demogrification happens when the label forgets this.
+
+Common forms
+
+A ritual label can falsely demogrify a feature when it ends the question instead of naming one likely role.
+
+A domestic label can falsely demogrify a deposit when it excludes feasting, craft, closure, storage, taboo, or reuse.
+
+A defensive label can falsely demogrify a wall when terrace, flood control, animal control, display, route control, or memory boundary remain possible.
+
+A peaceful label can falsely demogrify a site when absence of a battle layer is treated as absence of fear, threat, coercion, or conflict management.
+
+A food label can falsely demogrify animal remains when the bones also carry seasonality, status, ritual selection, drive hunting, butchery practice, tool use, scavenging, or fill history.
+
+A grave label can falsely demogrify a burial when the same feature may also be cache, claim, warning, offering, memory address, reopening point, or later disturbance.
+
+The problem is not using labels. The problem is letting labels become locks.
+
+Why it matters
+
+False demogrification changes what people look for next.
+
+If a place is called only a temple, researchers may under-map food processing, route control, storage, labour, water, repair, and crowd movement.
+
+If a place is called only domestic, researchers may under-read taboo, display, memory, deliberate closure, or ancestor practice.
+
+If a feature is called only defensive, researchers may miss display, processional movement, flood control, animal management, or social boundary work.
+
+If a deposit is called ordinary rubbish, researchers may miss that rubbish can be curated, staged, timed, selected, or used to close a building.
+
+A label does not merely describe a site. It directs attention. It decides which questions feel natural and which questions feel excessive.
+
+Mogri terms help because they separate three states that often get tangled.
+
+Known: what the evidence actually resolves.
+
+Mogri: the unknowns that still matter.
+
+False demogrification: the claim behaves as though those unknowns are already resolved.
+
+A small field habit
+
+When a label starts to settle, ask three questions.
+
+What has actually been demogrified?
+
+What remains mogri?
+
+What evidence would demogrify the next part?
+
+This does not slow the work in a bad way. It slows the one move that most needs slowing: the jump from trace to finished story.
+
+Example: a burnt building
+
+Known: there is burning.
+
+Still mogri: whether the burning was accident, attack, cleaning, closure, cooking, craft, ritual, pest control, structural failure, or later disturbance.
+
+Possible demogrification events: burn temperature patterns, collapsed roof sequence, trapped objects, weapon damage, human remains, insect evidence, floor residues, rebuilding behaviour, repeated burning across buildings.
+
+False demogrification: "the settlement was destroyed by enemies" before the fire sequence supports that claim.
+
+Example: a skull fragment
+
+Known: a skull fragment exists in a context.
+
+Still mogri: whose skull, how it arrived, whether it was curated, displayed, disturbed, cut, drilled, buried, moved, scavenged, inherited, feared, honoured, or used in a practice that does not fit one modern category.
+
+Possible demogrification events: cut marks, weathering, breakage pattern, refitting, dating, isotope data, ancient DNA, context relation, animal damage, residue, comparison with other fragments.
+
+False demogrification: "trophy", "ancestor", "victim", or "cult object" as if one word has finished the work.
+
+Example: Gobekli Tepe
+
+Gobekli Tepe is a good case because several labels are tempting.
+
+Temple is tempting because monumental buildings, T-pillars, animal imagery, and death practice are strongly present.
+
+Hunting centre is tempting because wild animal remains, gazelle seasonality, aurochs hunting evidence, and feast logistics matter.
+
+Settlement is tempting because newer work has made the old isolated sanctuary image too narrow.
+
+Drive architecture is tempting because the layout, food processing, animal evidence, and gathering scale invite movement-based questions.
+
+Raider-risk is tempting because fixed food, labour, visibility, and seasonal scarcity create a plausible threat layer.
+
+The mogri-aware move is not to choose one label and crown it. The better move is to rank them.
+
+Core: ceremonial gathering, feasting, death practice, social identity, regional symbolic network.
+
+Strong layer: hunt and feast drive architecture.
+
+Secondary layer: fixed-wealth threat management.
+
+Speculative mechanisms: delay-and-drop, pantry lure, roof failure, predator bait, mortuary crisis roles, rare emergency conspecific consumption.
+
+That ranking can change, but it changes by demogrification events, not by label hunger.
+
+How to write without false demogrification
+
+Use "supports" where evidence supports.
+
+Use "is compatible with" where evidence does not decide.
+
+Use "would predict" for testable extensions.
+
+Use "does not require" when answering a weak objection.
+
+Use "does not prove" when the attractive claim is still too heavy.
+
+Use "rank" instead of "truth" when several roles remain live.
+
+A useful sentence shape is:
+
+"The evidence demogrifies X, leaves Y as mogri, and makes Z a testable possibility rather than a conclusion."
+
+For example:
+
+"The skull fragments demogrify deliberate body handling, leave the social role of that handling as mogri, and make ancestor practice, display, warning, trophy-taking, grief, or other death work testable possibilities rather than automatic conclusions."
+
+This is less dramatic than a hard label. It is also harder to break.
+
+What mogrification adds
+
+Academic mogrification removes unsupported certainty from a claim. It does not make the claim useless. It returns the claim to the right weight.
+
+A mogrified claim can still guide testing.
+
+A demogrified claim can support stronger interpretation.
+
+A falsely demogrified claim can quietly damage the whole model.
+
+The aim is not to keep everything mysterious. The aim is to know which unknowns matter, and to stop pretending they are gone before they are gone.
+
+Short rule
+
+If removing one label makes the evidence look very different, the label may have been doing more than naming.
+
+Demogrify the evidence.
+
+Mogrify the overclaim.
+
+Then rebuild the model with rank.
