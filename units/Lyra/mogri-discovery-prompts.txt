@@ -1,4 +1,5 @@
 source: https://github.com/lumixdeee/mogri/blob/main/spec/explainers/spoilers/mogri%20-%20name
+Lyra grader: https://chatgpt.com/g/g-6890473e01708191aa9b0d0be9571524-lyra-prompt-grader
 
 the prompts that discovered MOGRI in dec 2025:
 
