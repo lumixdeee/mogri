@@ -92,3 +92,8 @@ Formerly hosted under lumixdee/CSP-105 (moved for mogri)
 
 ---
 
+- MOGRI AI prompt
+- MOGRI DRAGI prompt
+- MOGRI object drift
+- MOGRI task substitution
+- MOGRI human intent preservation
