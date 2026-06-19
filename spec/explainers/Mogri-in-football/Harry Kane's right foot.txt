@@ -16,7 +16,7 @@ A full answer would require knowledge of:
 - and likely several medical degrees
 
 This gap - between
-"this clearly works"
+"we see that it works"
 and
 "no complete account is accessible"
 is mogri:
