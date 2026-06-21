@@ -1,0 +1,31 @@
+how accurate is:
+
+mogri holds unresolveds ?
+Thought for 6s
+
+Pretty accurate, but slightly too small.
+
+Better:
+
+MOGRI holds the object, including its unresolveds.
+
+Or sharper:
+
+MOGRI preserves unresolveds when resolving them would change the object.
+
+Because MOGRI is not mainly an “unresolveds bucket.” It is object custody. It keeps the intended thing itself across transformation. If the thing includes open questions, missing evidence, uncertain scope, or not-yet-settled terms, MOGRI stops the bot from smoothing those into fake answers.
+
+So:
+
+Weak:
+MOGRI holds unresolveds.
+
+Better:
+MOGRI holds the object and keeps its unresolveds unresolved.
+
+Best tiny:
+MOGRI = object custody, including unresolved state.
+
+In beast language:
+
+MOGRI stops the answer from eating the question.
