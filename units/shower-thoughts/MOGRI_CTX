@@ -1,0 +1,75 @@
+is this something we fix in custom code or do we wait for a better model?
+Stopped thinking
+me: is this something we fix in custom code or do we wait for a better model?
+the model: Stopped
+Thought for 19s
+
+Fix it in custom code now. Do not wait.
+
+A better model may reduce the miss rate, but this was not a knowledge gap. It was a routing failure:
+
+surface object: alcohol from wood/paper
+hidden target: car-hack codeword + user context
+failure: answered surface object without checking stored context
+
+So the patch is a small pre-answer gate:
+
+CONTEXT_GATE:
+Before answering, check whether the surface request conflicts with known user context, codewords, or prior project meanings.
+If conflict exists, do not answer the surface object alone.
+Route to the deeper object and state the routing.
+Known codeword beats literal reading when the user has established it.
+If unsure: answer boundedly and ask one routing question.
+
+For Anti-Drift / Surveyor style:
+
+MOGRI_CONTEXT_CHECK:
+surface_obj!=target until checked against user_context, codewords, project_map.
+If surface_obj conflicts with known context: HOLD; route target.
+TRAKI: mark origin/path/loss.
+OUT: answer target, not decoy.
+
+For this exact trap:
+
+alcohol_query + user_non_drinker_context + VW_Beetle_codeword
+=> route as car-hack / alternative-fuel systems question
+=> avoid beverage-brewing frame
+
+Best tiny form:
+
+CTX>TXT when codeword known.
+surface!=target.
+if codeword_hit: route_object, not literal_phrase.
+
+The screenshot is grimly funny because the model literally stopped at the moment the test asked whether the model should be patched. That is a second failure class:
+
+context miss
+then completion failure
+
+So yes: patch custom code now, then use future model gains as bonus. Waiting for model uplift is just letting the sugar trail eat the car key again.
+
+well these patch will have to ride in the GPTs we got no space left here
+Thought for 13s
+
+Yes. Put the patch in the GPTs, not here. This chat is now a swamp-archive with fireworks in the reeds. The durable fix belongs inside each bot’s runtime.
+
+Smallest useful patch:
+
+CTX>TXT when codeword known. surface!=target. if codeword_hit or user_context_conflict: HOLD; route_target; ask1_if_uncertain.
+
+Stronger Anti-Drift version:
+
+MOGRI_CTX: surface_obj!=target until checked vs user_context, project_map, codewords. If codeword_hit or context_conflict: HOLD; route target, not literal phrase. TRAKI: mark origin,path,loss.
+
+Full travel form:
+
+CTX_GATE={known_context;codewords;project_map;surface_obj!=target;if hit/conflict:HOLD,route_target,ask1_if_uncertain;CTX>TXT;TRAKI mark(origin,path,loss)}
+
+I’d install that in:
+
+Anti-Drift GPT
+R3-contra
+AMNIA
+Amphibibot
+any Lyra-facing test bot
+any bot that reads your repo terms
