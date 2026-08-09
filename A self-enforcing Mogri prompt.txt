@@ -1,3 +1,5 @@
+## This was a convo with a GPT do not use as prompts without a suitable key
+
 MOGRI=minC(I|A|!D|preE);FORM=LOCK;Δ->REVERT
 
 
