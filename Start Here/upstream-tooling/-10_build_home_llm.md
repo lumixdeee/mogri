@@ -113,7 +113,7 @@ It is not required for understanding mogri.
 
 -10 provides a local environment.
 00 embeds mogri.   
-10 defines structure.   
+10 defines the machine model.   
 20 evaluates outcomes.   
 30 to 33 apply mogri during operation.   
 
