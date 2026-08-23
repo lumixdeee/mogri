@@ -136,13 +136,13 @@ This component maintains conditions for mogri.
 
 It does not guarantee mogri.
 
-If the system produces only narrow or unstable options, this layer cannot fully restore structure.
+If the system produces only narrow or unstable options, this layer cannot fully restore viable connectivity.
 
 ---
 
 ## relation
 
-30 defines runtime structure.   
+30 defines runtime states and transitions.   
 31 adjusts step selection.   
 32 defines supporting functions.   
 33 defines constraint handling.   
