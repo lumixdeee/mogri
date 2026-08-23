@@ -6,7 +6,7 @@ It describes how effectively a minimal container preserves framework intent acro
 
 High mogriosity:
 
-* structure holds
+* intent and constraints hold
 * intent persists
 * no reinterpretation creep
 
@@ -14,7 +14,7 @@ Low mogriosity:
 
 * drift present
 * invariants weakening or lost
-* structure being reinterpreted or bypassed
+* intent or constraints being reinterpreted or bypassed
 
 Mogriosity is not the container itself.
 It is a property of a system using Mogri.
