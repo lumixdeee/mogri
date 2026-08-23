@@ -84,7 +84,7 @@ The important point is that the human does not need to know which one it is yet.
 
 This is often how real creative and technical work begins. A thing appears before its explanation. A phrase works before it has theory. A tool becomes useful before it has documentation. A name stabilizes a problem before the problem has a standard category.
 
-Human-side MOGRI is therefore a permission structure for the under-described.
+Human-side MOGRI is therefore a permission rule for the under-described.
 
 It says:
 
