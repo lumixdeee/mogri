@@ -1,19 +1,19 @@
 Mogrience
 
-Mogrience is the capacity of a system to sense and track its own structure under Mogri.
+Mogrience is the capacity of a system to sense and track its own state under Mogri.
 
 It describes internal awareness of whether framework intent is being preserved or drifting.
 
 High mogrience:
 
 * deviations detected early
-* structure monitored during generation
+* intent and constraints monitored during generation
 * invariant breaches noticed
 
 Low mogrience:
 
 * drift goes unnoticed
-* structure changes without detection
+* intent or constraints change without detection
 * invariants fail silently
 
 Mogrience does not enforce Mogri.
