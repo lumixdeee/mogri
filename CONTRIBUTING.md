@@ -10,7 +10,7 @@ It is designed to work in domains where:
 - experience precedes interpretation
 - ambiguity is informative, not an error
 - multiple readings can coexist
-- structure matters more than final outcome
+- relations matter more than final outcome
 - human sense-making is part of the system
 
 It acts as a compression and description layer, not a truth engine and not infrastructure.
@@ -68,7 +68,7 @@ In short: we do not claim authority where correctness must be absolute.
                  ↓
 ```
 
-The kit lives above the line, where interpretation, experience, and structure matter.
+The kit lives above the line, where interpretation, experience, and relations matter.
 
 Below the line, existing tools already do the job better and more safely.
 
@@ -105,7 +105,7 @@ Code-warriors are explicitly welcome to build downstream or adjacent tooling, in
 
 These should be:
 - opt-in
-- clearly non-authoritative
+- non-authoritative
 - framed as interfaces or lenses, not engines of truth
 
 Bridges are encouraged.  
@@ -144,7 +144,7 @@ This project exists to avoid all three.
 
 - Complete list of story domains and types  
 - Wake-dream vs sleep-dream scope  
-- Mogri as structural descriptor (not mechanism)  
+- Mogri as state descriptor (not mechanism)  
 - Framework kit components (primitives, faces, dragon kit, etc.)
 
 These documents reference each other but remain modular.
