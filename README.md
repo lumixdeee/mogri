@@ -48,7 +48,7 @@ Mogri;
 IS:
 - that which allows something undefined to remain coherent
 - the condition under which intent persists before formalization
-- present wherever structure has not yet collapsed or fully resolved
+- present wherever distinctions are not yet fixed or fully resolved
 
 IS NOT:
 - a cause, force, or generator of events
