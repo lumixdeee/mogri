@@ -3,7 +3,7 @@
 This defines the smallest loop where mogri can be applied.
 
 No tooling is required.   
-Only the structure of selection.
+Only the selection order.
 
 ---
 
@@ -97,7 +97,7 @@ It is independent of implementation.
 
 ## relation
 
--09 defines the minimal structure.   
+-09 defines the minimal selection loop.   
 -10 defines a local system.   
 30 to 33 define runtime behaviour.   
 
