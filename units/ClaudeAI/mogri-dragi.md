@@ -206,7 +206,7 @@ roar:
 Signal, naming, social force, declaration, public claim, attention, dominance of wording.
 
 wall:
-Boundary, block, hard limit, refusal, interface limit, forum lock, structural stop.
+Boundary, block, hard limit, refusal, interface limit, forum lock, interface stop.
 
 war:
 Active contest, opposition, competing force, conflict over the object.
