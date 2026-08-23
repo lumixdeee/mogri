@@ -6,13 +6,13 @@ It describes how well a container continues to hold under pressure, length, or r
 
 High mogristence:
 
-* structure persists across many turns
+* intent and constraints persists across many turns
 * intent survives rewrites and expansions
 * invariants remain intact under load
 
 Low mogristence:
 
-* structure degrades over time
+* intent or constraints degrade over time
 * intent weakens with each transformation
 * invariants erode under pressure
 
