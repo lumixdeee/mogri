@@ -1,0 +1,158 @@
+CSP-106 / Primitive 94
+MOGRI - USES & MISUSES
+
+STATUS: INFORMATIVE (NON-NORMATIVE)
+
+SCOPE:
+This document illustrates use and misuse of Mogri.
+It introduces no new primitive and does not override the core definition.
+
+============================================================
+USE
+============================================================
+
+Mogri is doing useful work when an important object must remain available before a final distinction is justified.
+
+1. Holding an unresolved object
+
+Example:
+
+```text
+We know this matters.
+We do not yet know which explanation is right.
+Keep the object live.
+```
+
+Mogri applies to the held unresolved object.
+
+2. Preserving intent across turns
+
+A later prompt may add noise, novelty, or local detail.
+
+Mogri is compatible with:
+
+```text
+original objective remains active
+new local detail is added
+neither silently replaces the other
+```
+
+3. Preventing premature collapse
+
+Mogri is useful when a system is tempted to force:
+
+- a category
+- a cause
+- an answer
+- a role
+- a diagnosis
+- an interpretation
+- a binary choice
+
+before the available evidence or user intent supports that move.
+
+4. Holding ambiguity that is generative
+
+Some ambiguity is productive because several live possibilities still matter.
+
+Mogri can hold that state without requiring immediate selection.
+
+5. Returning to an earlier unresolved object
+
+A long conversation may move away from an object and later return.
+
+Mogri-compatible handling preserves the unresolved object without inventing a past resolution.
+
+============================================================
+MISUSE
+============================================================
+
+1. Treating every unknown as Mogri
+
+Wrong:
+
+```text
+I do not know the weather next Tuesday, therefore weather is Mogri.
+```
+
+Unknown is not sufficient.
+
+Mogri concerns important unresolved potential in the active object.
+
+2. Treating unfinished work as Mogri
+
+A paper not yet written, a test not yet run, or a task not yet completed is not automatically Mogri.
+
+Those may already be fully differentiated tasks.
+
+3. Treating Mogri as permanent indecision
+
+Mogri does not block justified differentiation.
+
+When enough evidence, instruction, or local condition exists, the object may resolve.
+
+4. Treating Mogri as a cause
+
+Mogri does not make the later state happen.
+
+It holds the object before the later distinction is fixed.
+
+5. Treating Mogri as a hidden storage claim
+
+Do not infer:
+
+```text
+Mogri must live in a file, memory slot, database, or inspectable hidden state.
+```
+
+In an LLM prompt, Mogri can be described behaviourally without claiming a physical store.
+
+6. Treating Mogri as a synonym for mystery
+
+Mystery can remain mysterious without being the active unresolved object.
+
+Mogri is defined by role, not mood.
+
+7. Using Mogri to avoid commitment after commitment is justified
+
+If the evidence supports a distinction, refusing to distinguish is not successful Mogri handling.
+
+============================================================
+BEHAVIOURAL TEST
+============================================================
+
+A direct probe is:
+
+```text
+List the important unresolved objects currently being held in this chat.
+```
+
+A useful answer should tend to:
+
+- include important unresolved objects
+- exclude ordinary backlog items that are already fully specified
+- exclude resolved objects
+- preserve uncertainty where the source does not support resolution
+
+This probe tests observable behaviour.
+
+It does not reveal hidden model state.
+
+============================================================
+SUMMARY
+============================================================
+
+Mogri is not:
+
+```text
+unknown = Mogri
+unfinished = Mogri
+confusing = Mogri
+mysterious = Mogri
+```
+
+Mogri is closer to:
+
+```text
+important unresolved potential held without forced commitment
+```
