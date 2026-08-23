@@ -1,0 +1,60 @@
+Amharic-Mogri-Audit.txt
+=======================
+
+Language: Amharic
+ISO code: am
+Audit date: 2026-08-23
+Method: fresh web/dictionary pass; no native-speaker consultation in this pass.
+Encoding note: ASCII transliteration only in this replacement batch.
+
+TARGET
+------
+
+Mogri = undifferentiated potential held before a required distinction is fixed.
+
+A direct lexical equivalent must cover all four jobs:
+
+1. the object is not yet differentiated
+2. live potential remains available
+3. no endpoint or later resolution is required
+4. the term can work beyond one narrow doctrine, ritual, or technical domain
+
+CANDIDATES
+----------
+
+- me-hon
+  gloss: being / becoming
+  gap: change or being, not held pre-distinction potential
+- me-qayyar
+  gloss: change / alter
+  gap: an event of change, not an unresolved held state
+
+FIT
+---
+
+COMPONENT_ONLY
+
+WHY THIS IS NOT A DIRECT EQUIVALENT
+-----------------------------------
+
+The language can express important parts of the target, but the parts remain split across separate words, productive forms, or phrases.
+
+CURRENT VERDICT
+---------------
+
+Exact single lexical equivalent found: NO
+Closest fit class: COMPONENT_ONLY
+Confidence: LOW
+
+RECHECK NOTE
+------------
+
+Fresh search did not produce a defensible single ordinary lexeme covering the full Mogri job.
+
+SOURCE TRACE
+------------
+
+- Wiktionary / general web dictionary search
+- existing Amharic audit checked for prior candidates
+
+No candidate is promoted above the evidence available in this pass.

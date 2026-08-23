@@ -1,0 +1,54 @@
+Tigrinya-Mogri-Audit.txt
+========================
+
+Language: Tigrinya
+ISO code: ti
+Audit date: 2026-08-23
+Method: fresh web/dictionary pass; no native-speaker consultation in this pass.
+Encoding note: ASCII transliteration only in this replacement batch.
+
+TARGET
+------
+
+Mogri = undifferentiated potential held before a required distinction is fixed.
+
+A direct lexical equivalent must cover all four jobs:
+
+1. the object is not yet differentiated
+2. live potential remains available
+3. no endpoint or later resolution is required
+4. the term can work beyond one narrow doctrine, ritual, or technical domain
+
+CANDIDATES
+----------
+
+- No defensible single-word candidate retained in this pass.
+
+FIT
+---
+
+NO_DEFENSIBLE_SINGLE_WORD
+
+WHY THIS IS NOT A DIRECT EQUIVALENT
+-----------------------------------
+
+The accessible lexical evidence in this pass did not support a single candidate strongly enough to treat it as a near equivalent.
+
+CURRENT VERDICT
+---------------
+
+Exact single lexical equivalent found: NO
+Closest fit class: NO_DEFENSIBLE_SINGLE_WORD
+Confidence: LOW
+
+RECHECK NOTE
+------------
+
+No single candidate was reliable enough to retain from accessible online lexica. A native lexical pass is needed.
+
+SOURCE TRACE
+------------
+
+- GeezExperience / Glosbe-targeted web search
+
+No candidate is promoted above the evidence available in this pass.

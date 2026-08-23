@@ -1,0 +1,63 @@
+Turkish-Mogri-Audit.txt
+=======================
+
+Language: Turkish
+ISO code: tr
+Audit date: 2026-08-23
+Method: fresh web/dictionary pass; no native-speaker consultation in this pass.
+Encoding note: ASCII transliteration only in this replacement batch.
+
+TARGET
+------
+
+Mogri = undifferentiated potential held before a required distinction is fixed.
+
+A direct lexical equivalent must cover all four jobs:
+
+1. the object is not yet differentiated
+2. live potential remains available
+3. no endpoint or later resolution is required
+4. the term can work beyond one narrow doctrine, ritual, or technical domain
+
+CANDIDATES
+----------
+
+- belirsiz
+  gloss: indeterminate / indefinite / unspecified
+  gap: non-determination
+- belirsizlik
+  gloss: indeterminacy / uncertainty
+  gap: state noun
+- kararsiz
+  gloss: undecided
+  gap: decision state, often agent-centred
+
+FIT
+---
+
+COMPONENT_ONLY
+
+WHY THIS IS NOT A DIRECT EQUIVALENT
+-----------------------------------
+
+The language can express important parts of the target, but the parts remain split across separate words, productive forms, or phrases.
+
+CURRENT VERDICT
+---------------
+
+Exact single lexical equivalent found: NO
+Closest fit class: COMPONENT_ONLY
+Confidence: HIGH
+
+RECHECK NOTE
+------------
+
+Turkish has strong non-determination vocabulary, but no one ordinary item adds undifferentiated potential and deliberate holding.
+
+SOURCE TRACE
+------------
+
+- Turkish Language Association-targeted search
+- Wiktionary cross-check
+
+No candidate is promoted above the evidence available in this pass.

@@ -1,0 +1,67 @@
+German-Mogri-Audit.txt
+======================
+
+Language: German
+ISO code: de
+Audit date: 2026-08-23
+Method: fresh web/dictionary pass; no native-speaker consultation in this pass.
+Encoding note: ASCII transliteration only in this replacement batch.
+
+TARGET
+------
+
+Mogri = undifferentiated potential held before a required distinction is fixed.
+
+A direct lexical equivalent must cover all four jobs:
+
+1. the object is not yet differentiated
+2. live potential remains available
+3. no endpoint or later resolution is required
+4. the term can work beyond one narrow doctrine, ritual, or technical domain
+
+CANDIDATES
+----------
+
+- unbestimmt
+  gloss: indeterminate / unspecified
+  gap: non-determination without potential
+- undifferenziert
+  gloss: undifferentiated
+  gap: pre-distinction without holding
+- Potentialitaet
+  gloss: potentiality
+  gap: potential without non-determination
+- in der Schwebe
+  gloss: pending / in suspense
+  gap: phrase; strong on held-open status
+
+FIT
+---
+
+COMPONENT_ONLY
+
+WHY THIS IS NOT A DIRECT EQUIVALENT
+-----------------------------------
+
+The language can express important parts of the target, but the parts remain split across separate words, productive forms, or phrases.
+
+CURRENT VERDICT
+---------------
+
+Exact single lexical equivalent found: NO
+Closest fit class: COMPONENT_ONLY
+Confidence: HIGH
+
+RECHECK NOTE
+------------
+
+German has compact component terms and a useful held-open idiom, but no one neutral lexical item covers the full job.
+
+SOURCE TRACE
+------------
+
+- Duden-targeted search
+- German Wiktionary
+- Wiktionary indeterminate translation table
+
+No candidate is promoted above the evidence available in this pass.

@@ -1,0 +1,63 @@
+Sanskrit-Mogri-Audit.txt
+========================
+
+Language: Sanskrit
+ISO code: sa
+Audit date: 2026-08-23
+Method: fresh web/dictionary pass; no native-speaker consultation in this pass.
+Encoding note: ASCII transliteration only in this replacement batch.
+
+TARGET
+------
+
+Mogri = undifferentiated potential held before a required distinction is fixed.
+
+A direct lexical equivalent must cover all four jobs:
+
+1. the object is not yet differentiated
+2. live potential remains available
+3. no endpoint or later resolution is required
+4. the term can work beyond one narrow doctrine, ritual, or technical domain
+
+CANDIDATES
+----------
+
+- avyakta
+  gloss: unmanifest / unexpressed / indistinct
+  gap: very strong pre-distinction candidate but heavily philosophical in major traditions
+- anirdharita
+  gloss: undetermined / undecided
+  gap: non-determination
+- sambhavana
+  gloss: possibility / supposition
+  gap: potential or possibility without the holding role
+
+FIT
+---
+
+CLOSE_CONCEPT
+
+WHY THIS IS NOT A DIRECT EQUIVALENT
+-----------------------------------
+
+At least one established term overlaps strongly with the target, but it drops one or more required jobs or carries domain-specific baggage.
+
+CURRENT VERDICT
+---------------
+
+Exact single lexical equivalent found: NO
+Closest fit class: CLOSE_CONCEPT
+Confidence: HIGH
+
+RECHECK NOTE
+------------
+
+Avyakta is one of the strongest near candidates in the batch, but it does not by itself encode deliberate custody of an important unresolved object.
+
+SOURCE TRACE
+------------
+
+- Sanskrit dictionary / Wisdomlib-targeted search
+- Wiktionary cross-check
+
+No candidate is promoted above the evidence available in this pass.

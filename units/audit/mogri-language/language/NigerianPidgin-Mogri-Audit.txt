@@ -1,0 +1,57 @@
+NigerianPidgin-Mogri-Audit.txt
+==============================
+
+Language: Nigerian Pidgin
+ISO code: pcm
+Audit date: 2026-08-23
+Method: fresh web/dictionary pass; no native-speaker consultation in this pass.
+Encoding note: ASCII transliteration only in this replacement batch.
+
+TARGET
+------
+
+Mogri = undifferentiated potential held before a required distinction is fixed.
+
+A direct lexical equivalent must cover all four jobs:
+
+1. the object is not yet differentiated
+2. live potential remains available
+3. no endpoint or later resolution is required
+4. the term can work beyond one narrow doctrine, ritual, or technical domain
+
+CANDIDATES
+----------
+
+- never decide / never set
+  gloss: not decided yet / not set
+  gap: productive phrase, not a lexical primitive
+
+FIT
+---
+
+COMPONENT_ONLY
+
+WHY THIS IS NOT A DIRECT EQUIVALENT
+-----------------------------------
+
+The language can express important parts of the target, but the parts remain split across separate words, productive forms, or phrases.
+
+CURRENT VERDICT
+---------------
+
+Exact single lexical equivalent found: NO
+Closest fit class: COMPONENT_ONLY
+Confidence: MEDIUM
+
+RECHECK NOTE
+------------
+
+Nigerian Pidgin can express the state very directly, but the fresh pass found no stable single-word equivalent.
+
+SOURCE TRACE
+------------
+
+- BBC Pidgin-targeted search
+- Glosbe-targeted search
+
+No candidate is promoted above the evidence available in this pass.

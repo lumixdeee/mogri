@@ -1,0 +1,66 @@
+AncientGreek-Mogri-Audit.txt
+============================
+
+Language: Ancient Greek
+ISO code: grc
+Audit date: 2026-08-23
+Method: fresh web/dictionary pass; no native-speaker consultation in this pass.
+Encoding note: ASCII transliteration only in this replacement batch.
+
+TARGET
+------
+
+Mogri = undifferentiated potential held before a required distinction is fixed.
+
+A direct lexical equivalent must cover all four jobs:
+
+1. the object is not yet differentiated
+2. live potential remains available
+3. no endpoint or later resolution is required
+4. the term can work beyond one narrow doctrine, ritual, or technical domain
+
+CANDIDATES
+----------
+
+- aoristos
+  gloss: indefinite / indeterminate
+  gap: covers indeterminacy but not holding or potential
+- dynamis
+  gloss: capacity / potentiality
+  gap: covers potential but not indeterminacy
+- apeiron
+  gloss: boundless / indefinite; philosophical primal principle
+  gap: conceptually near but cosmological and not the same job
+- apeirodynamia
+  gloss: infinite potentiality
+  gap: late philosophical technical term; not neutral or ordinary
+
+FIT
+---
+
+CLOSE_CONCEPT
+
+WHY THIS IS NOT A DIRECT EQUIVALENT
+-----------------------------------
+
+At least one established term overlaps strongly with the target, but it drops one or more required jobs or carries domain-specific baggage.
+
+CURRENT VERDICT
+---------------
+
+Exact single lexical equivalent found: NO
+Closest fit class: CLOSE_CONCEPT
+Confidence: HIGH
+
+RECHECK NOTE
+------------
+
+The 2026-08 pass found stronger near candidates than the old change-focused audit, but no one term covers the operational holding role.
+
+SOURCE TRACE
+------------
+
+- LSJ via Scaife ATLAS
+- Wiktionary Ancient Greek entries
+
+No candidate is promoted above the evidence available in this pass.
