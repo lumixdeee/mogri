@@ -4,7 +4,7 @@
 
 # CSP‑106 (Complete Semantic Primes - 106 items - complete list for modelling)
 
-**CSP‑106** is a semantic primes framework for representing complex concepts as interconnected nodes. It provides a minimal, structured vocabulary to capture meaning, enabling reasoning, visualization, and reuse of abstract ideas across multiple domains.
+**CSP‑106** is a semantic primes framework for representing complex concepts as interconnected nodes. It provides a minimal vocabulary to capture meaning, enabling reasoning, visualization, and reuse of abstract ideas across multiple domains.
 
 ---
 
@@ -12,9 +12,9 @@
 
 Mogri (Primitive 94, CSP-106)
 
-Definition: Undifferentiated Potential, Pre-structural Holding
+Definition: Undifferentiated Potential, Pre-distinction Holding
 
-Mogri is the irreducible cognitive-semantic primitive that exists prior to structure, causality, and formal ontology.
+Mogri is the irreducible cognitive-semantic primitive that exists prior to fixed distinctions, causality, and formal ontology.
 It does not generate, explain, or resolve; it holds.
 
 Mogri is not an entity, not a force, and not a mechanism.
