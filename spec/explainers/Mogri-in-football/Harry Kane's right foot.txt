@@ -21,10 +21,7 @@ and
 "no complete account is accessible"
 is mogri:
 
-missing-but-important structure that is real,
-but distributed across disciplines,
-tacit skill,
-and context.
+missing-but-important understanding that is real, but distributed across disciplines, tacit skill, and context.
 
 Football already gestures at mogri with phrases like:
 "He just has it."
