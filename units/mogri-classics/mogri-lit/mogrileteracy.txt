@@ -2,16 +2,23 @@
 
 mogrileteracy (n.)
 
-The adoption of an apparent typo, slip, or error into a new semantic
-direction, where the deviation itself becomes informative.
+The deliberate retention of an apparent typo, slip, or error long enough to test whether the deviation carries a useful semantic direction.
 
-A mistake is not corrected back to baseline,
-but explored under constraint to test whether new structure appears.
+It does not assume the deviation is meaningful.
+The baseline remains available while the variant is explored under constraint.
 
-Distinguished from nonsense by:
-- falsifiability
-- bounded exploration
-- rejection of literal enactment
+A mogrileterate move:
+- records the original form
+- holds the deviation without silently correcting it
+- asks what new relation or distinction, if any, the variant makes available
+- permits falsification and return to baseline
+- rejects literal enactment when the variant is only linguistic play
 
-The joke dies.
-The structure may remain.
+Outcomes:
+- no useful distinction -> drop the variant
+- repeatable semantic use -> retain it as a candidate term
+
+Not the same as mogriliteracy, which describes apparent fluency that fails when context moves.
+
+The joke may die.
+The relation may remain.
