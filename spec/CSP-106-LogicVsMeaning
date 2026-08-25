@@ -61,7 +61,7 @@ RULE {
 
 ====================================================================================
 
-The structured version above is not a translation, explanation, or formalisation of the human version below; they are deliberately non-equivalent views intended to expose the failure that occurs when logic is mistaken for meaning.
+The formal-symbol version above is not a translation, explanation, or formalisation of the human version below; they are deliberately non-equivalent views intended to expose the failure that occurs when logic is mistaken for meaning.
 
 ====================================================================================
 
@@ -71,7 +71,7 @@ LOGIC vs SPEECH / MEANING
 
 LOGIC
 - A formal system of symbols and rules.
-- Operates on structure, not content.
+- Operates on syntax and symbol relations, not content.
 - Cares about validity: if premises are true, does the conclusion follow?
 - Blind to context, intent, tone, culture, or consequence.
 - Does not know what words mean; only how symbols relate.
@@ -108,7 +108,7 @@ AI FAILURE MODE
 CORRECTIVE DISCIPLINE
 
 Ask three separate questions, in order:
-1. Is the inference structurally valid?        (logic)
+1. Is the inference formally valid?        (logic)
 2. Are the terms stable and shared?             (semantics)
 3. What is being done with the speech act?      (pragmatics)
 
@@ -128,12 +128,12 @@ NOTES / MISREADINGS TO AVOID
 - It does not formalise meaning.
 - It does not make speech logical, nor logic meaningful.
 
-- The structured form is not “more correct” than the human form.
-- The human form is not a simplification of the structured form.
+- The formal-symbol form is not “more correct” than the human form.
+- The human form is not a simplification of the formal-symbol form.
 - Each can reveal failures the other cannot.
 
 - If you treat fluency as validity, you are committing the error described here.
-- If you treat structure as authority, you are committing the error described here.
+- If you treat formal presentation as authority, you are committing the error described here.
 - If you treat disagreement as illogic, you are committing the error described here.
 
 This page is a diagnostic lens, not a doctrine.
