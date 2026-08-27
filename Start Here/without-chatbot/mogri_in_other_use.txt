@@ -1,5 +1,27 @@
-Start with an understanding of mogri - https://github.com/lumixdeee/mogri/blob/main/example/mogri_usage-first_definition.txt
+Start with the prime-source account of the word:
 
-Mogri grammar resources are here - https://github.com/lumixdeee/mogri/tree/main/spec
+https://github.com/lumixdeee/mogri/blob/main/spec/explainers/spoilers/mogri%20-%20name
 
-Use mogri. A usage example is here - https://github.com/lumixdeee/mogri/blob/main/DragonHPD/old/Daenerys_Targaryen.txt
+Then read the canonical technical definition:
+
+https://github.com/lumixdeee/mogri/blob/main/spec/CSP-106-94%20Mogri-Definition
+
+Usage-first version:
+
+https://github.com/lumixdeee/mogri/blob/main/example/mogri_usage-first_definition.txt
+
+Grammar resources:
+
+https://github.com/lumixdeee/mogri/tree/main/spec
+
+Then use Mogri on a real object.
+
+A usage example is here:
+
+https://github.com/lumixdeee/mogri/blob/main/DragonHPD/old/Daenerys_Targaryen.txt
+
+Reading rule:
+
+The origin source gives the word and its semantic pressure.
+The canonical definition gives the technical holding job.
+Later examples may explore local senses, but they do not override the prime sources.
