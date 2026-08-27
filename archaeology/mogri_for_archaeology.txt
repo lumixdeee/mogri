@@ -1,0 +1,132 @@
+Mogri for Archaeology
+
+A small vocabulary for holding interpretation open when evidence has not yet earned a final distinction.
+
+Canonical basis
+
+Mogri is the irreducible root for a held-open condition in which an important semantic object remains available before a useful distinction is fixed.
+
+In archaeology, the semantic object is usually an interpretation of traces, relations, sequence, use, agency, or meaning.
+
+The physical pit, wall, bone, tool, or deposit is evidence.
+Mogri applies to the unresolved interpretation object, not to a hidden substance inside the physical thing.
+
+Local shorthand
+
+Archaeologists can use "unknowns that matter" as shorthand for unresolved evidence-to-interpretation relations that would materially change the reading if resolved.
+
+Unknownness alone is not enough.
+
+A missing fact is Mogri-relevant only when forcing an answer would risk invention, substitution, or loss of a still-live interpretation.
+
+Demogrify
+
+Demogrify means to resolve a specific held distinction to the extent supported by evidence.
+
+Examples:
+
+- residue may demogrify one vessel use
+- microwear may demogrify one tool action
+- refitting may demogrify sequence
+- isotopes may demogrify movement
+- dating may demogrify chronology
+
+None of these automatically resolves every social meaning attached to the same object.
+
+Partial demogrification
+
+A result may resolve one part while leaving another part held.
+
+Modified skull fragments may support deliberate body handling while leaving the social role of that handling unresolved.
+
+Mogrification
+
+To mogrify is to place, keep, or restore an interpretation object in Mogri holding.
+
+This may happen because:
+
+- evidence is incomplete
+- evidence was lost or moved
+- ancient actors concealed a mechanism
+- a later label fixed the reading too early
+- new evidence reopened a previously settled interpretation
+
+Academic mogrification does not make the past vague.
+
+It restores the interpretation to the weight the evidence can support.
+
+False demogrification
+
+False demogrification occurs when a claim acts as though a held distinction has already been resolved.
+
+Examples:
+
+"This was ritual" can be false demogrification if it ends the question while storage, drainage, reuse, burial, trapping, or later fill remain live.
+
+"This was practical" can be false demogrification if it excludes symbol, memory, status, or death without support.
+
+"No mass grave" does not by itself resolve every question about threat, conflict management, fear, or rare violence.
+
+A field method
+
+Start with the trace.
+
+State what is physically observed.
+
+Name the interpretation object.
+
+Ask which unresolved relation would materially change the reading.
+
+Rank live possibilities by support.
+
+Demogrify only what the evidence resolves.
+
+Leave the remaining live object in Mogri holding.
+
+State what observation or test would resolve the next distinction.
+
+Worked example: stone-lined pit
+
+Known:
+edge, fill, depth, relation to floors, finds, and sequence may be partly observed.
+
+Held:
+use, original contents, reopening, relation to food, water, bone, body, tool, waste, bait, or later reuse may remain unresolved.
+
+Possible demogrification events:
+residue, insect evidence, refitting, micromorphology, dating, or spatial relation.
+
+False demogrification:
+calling it "ritual pit" or "storage pit" and then letting that label end the live alternatives before the evidence does.
+
+Gobekli Tepe
+
+Gobekli Tepe is useful because several high-level roles remain live while a large evidence floor already exists.
+
+A Mogri-aware reading does not require all roles to have equal weight.
+
+It can rank ceremonial gathering, feasting, death practice, food work, movement, threat management, storage, route control, and other roles according to current evidence while still holding unresolved relations for later testing.
+
+The point is not to keep the site mysterious.
+
+The point is to prevent one useful label from replacing the larger evidence object.
+
+Writing form
+
+A compact sentence can be:
+
+`The evidence resolves X, leaves Y in Mogri holding, and makes Z a testable possibility rather than a conclusion.`
+
+Why the word helps
+
+Archaeological prose often needs to say:
+
+- this trace is real
+- this interpretation is useful
+- this part remains unresolved
+- this unresolved part still changes the model
+- do not invent the missing distinction yet
+
+Mogri gives that handling job a short name.
+
+It does not replace evidence or ordinary archaeological method.
