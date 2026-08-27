@@ -1,0 +1,60 @@
+CSP-106 / Primitive 94
+MOGRI CANONICAL GRAMMAR POLICY
+
+STATUS: AUTHORITATIVE FOR GRAMMAR POLICY
+
+Semantic authority:
+`CSP-106-94 Mogri-Definition`
+
+Base grammar:
+`CSP-106 94 Mogri-Grammar`
+
+Pack 01:
+expressive and marked forms
+
+Pack 02:
+resolution and boundary operations
+
+Canonical policy
+
+1. MOGRI is the indivisible root.
+2. Grammar is productive, not a closed inventory.
+3. Standard English inflection and derivation are allowed when the root job survives.
+4. New forms do not become new definitions of MOGRI.
+5. Local specialised senses must be marked as local.
+6. Historical or playful forms may remain attested without becoming required.
+7. No numerical total of "all valid forms" is canonical.
+8. A form is not invalid merely because it was coined after this file.
+9. A form is invalid for canonical use when it cannot be recovered to the root job or when it silently replaces that job with a different concept.
+
+Early attested family
+
+- mogri
+- mogrification
+- mogrify
+- mogriness
+- mograte
+- mogristic
+- mogriantic
+
+Common operational family
+
+- mogric
+- demogrify
+- demogrification
+- remogrify
+
+Other attested forms belong to the base grammar, expressive packs, or usage ledger according to their role.
+
+Extension test
+
+Before treating an unfamiliar form as canonical usage, ask:
+
+- What grammatical operation was added?
+- What local meaning did it add?
+- Can the meaning still be traced to Mogri holding?
+- Did the form preserve the root rather than replace it?
+
+If yes, the form can be used with enough local context.
+
+If no, mark it as local, historical, playful, or conflicting rather than silently changing MOGRI.

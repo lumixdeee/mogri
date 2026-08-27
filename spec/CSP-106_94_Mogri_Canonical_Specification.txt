@@ -1,0 +1,77 @@
+MOGRI CANONICAL SPECIFICATION
+Primitive 94, CSP-106
+
+STATUS: NORMATIVE
+SEMANTIC AUTHORITY: `CSP-106-94 Mogri-Definition`
+PRIME SOURCES: `spec/explainers/spoilers/mogri - name` and the origin-chat provenance
+
+1. Root invariant
+
+MOGRI is the indivisible root.
+
+Do not reinterpret it as `mog + ...`.
+Derived forms inherit from MOGRI.
+
+2. Holding invariant
+
+Mogri holds an important semantic object, intent, possibility, or partly inaccessible phenomenon before a useful distinction is fixed.
+
+The held object must remain recoverable while it is unresolved.
+
+3. No forced commitment
+
+Mogri-compatible handling must not force a category, cause, role, answer, diagnosis, interpretation, or binary choice before the available source or user intent supports that move.
+
+4. Resolution remains possible
+
+Mogri is not permanent indecision.
+
+When a sufficient distinction becomes available, the held object may resolve.
+
+5. No causation claim
+
+Mogri does not generate, cause, or select the later state.
+
+It is a holding condition, not an origin force.
+
+6. No entity claim
+
+Mogri is not an actor, agent, role, authority, or hidden object inside the system.
+
+7. No hidden-store claim
+
+A runtime may implement Mogri through prompt state, context, files, memory, routing, or another mechanism.
+
+The semantic definition does not prove any hidden physical store.
+
+8. Unknown is not sufficient
+
+Not every missing fact is Mogri.
+
+The unresolved part must matter to the active object, and forcing it must risk substitution, unsupported commitment, or loss.
+
+9. Local formal role, not metaphysics
+
+CSP may place Mogri before differentiated primitives as a modelling convention.
+
+This does not assert that reality itself requires a Mogri container.
+
+10. Etymology and derivation
+
+The coinage route passes through:
+
+`transmogrification -> mogrification -> mogri`
+
+MOGRI remains the semantic root.
+
+English derivation from that root is productive when the resulting form preserves the root job and its local meaning is recoverable.
+
+11. Behavioural criterion
+
+A useful test is:
+
+`Did the important unresolved object survive until a supported distinction was available?`
+
+This tests observed handling.
+
+It does not reveal hidden model internals.

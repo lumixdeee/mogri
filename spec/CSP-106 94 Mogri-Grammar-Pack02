@@ -1,0 +1,79 @@
+CSP-106 / Primitive 94
+MOGRI GRAMMAR PACK 02
+RESOLUTION AND BOUNDARY OPERATIONS
+
+STATUS: NORMATIVE DERIVATION PACK
+
+This pack covers operations that resolve, restore, or protect a Mogri hold.
+
+It does not define MOGRI independently of the canonical definition.
+
+demogrify
+
+Part of speech: verb
+
+Meaning:
+Resolve, reveal, or remove a specific held uncertainty when enough support exists to make that distinction.
+
+Constraint:
+Demogrification is bounded by the evidence or instruction available. Resolving one part does not imply that every other part is resolved.
+
+demogrification
+
+Part of speech: noun
+
+Meaning:
+The process or result of demogrifying.
+
+partial demogrification
+
+Phrase
+
+Meaning:
+One important distinction has been resolved while other Mogri-relevant parts remain held.
+
+false demogrification
+
+Phrase
+
+Meaning:
+A claim behaves as though a held distinction has been resolved when the source does not support that move.
+
+remogrify
+
+Part of speech: verb
+
+Meaning:
+Restore Mogri holding after a distinction was fixed too early or unsupported certainty was added.
+
+mogri load
+
+Local technical phrase
+
+Meaning:
+The amount and importance of unresolved material that still changes the active interpretation if resolved.
+
+This is a domain measure, not a claim that MOGRI is a bag of unknown facts.
+
+mogri lock
+
+Local technical phrase
+
+Meaning:
+A rule that prevents one current interpretation from swallowing other still-supported possibilities.
+
+Scope
+
+Mogri can apply to semantic objects, descriptions, interpretations, prompts, plans, models, stories, or other handled information.
+
+It is not restricted to "information about processes".
+
+Physical objects may supply evidence for a Mogri-relevant semantic object. The physical object itself is not thereby claimed to contain a hidden Mogri substance.
+
+Historical note
+
+Earlier Pack 02 drafts assigned unrelated meanings to `mogring` and `mogried` and split `mog-` from `mogr-`.
+
+Those meanings are not part of this canonical pack.
+
+If they are preserved elsewhere, treat them as historical or explicitly local usage.
