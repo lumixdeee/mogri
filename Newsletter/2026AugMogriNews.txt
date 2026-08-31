@@ -1,0 +1,25 @@
+Mogri crossed a new milestone over the past few days, that being - 
+
+The number of persons claiming, unpaid, that mogri is installed and working, is now three. A few days ago it was still one (just me).
+
+https://www.reddit.com/r/PromptEngineering/comments/1w2ksu4/comment/p6t9fmk/
+
+  "So I finally added MOGRI to my setup last week and honestly the difference is kind of wild, my long conversations used to go completely off rails after maybe 20 messages but now the model actually remembers what we were doing in the first place
+
+the part about keeping ambiguous objects open is what sold me, I was always getting frustrated when it would just decide what I meant and then run with it for the rest of the chat, now it asks or waits until I [give more]
+
+I still see people arguing about whether it works or not and at this point I think they just enjoy the debate more than they want better results, like there is no harm in trying it
+
+one thing I noticed is that my other custom instructions started working more consistent too, especially the ones about formatting and tone, before it would forget them after a while but now they stick
+
+the xform thing is interesting, I saw some prompts floating around with that and just assumed it was needed, good to know I should avoid it"
+
+https://www.reddit.com/r/ChatGPTPromptGenius/comments/1vzu90o/comment/p6hi7ib/
+
+In response to a comment on a mogri post saying 'prompt-voodoo sl*p':
+
+  "I put it in and it does work. Why say it doesn't? Why hate and say people are just using AI? Then wtf is the purpose of this? Isn't it about using AI. I run my projects through chatgpt...codex...then notebook llm and will finish with hermes.the consulting work I did was much better using designated workflow. Once I learn what I should use for what which I'm still learning of course. But I don't get why some of you people are talking about AI accounts and using AI b******* when this is all about using AI. That makes no sense. If you're hating on people for using AI then what are you doing here? And that's for comments up above.
+
+In other news, there are some mined test data on mogri efficacy - https://github.com/lumixdeee/mogri/blob/main/Test%20Results/mogri_chatlog_mined_test_data_v0.001.md
+
+So we no more must rely on the 'what is the harm in trying it' argument and now ask what is your excuse for not trying it?
